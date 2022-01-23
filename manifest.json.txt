@@ -1,9 +1,12 @@
 {
-  "name": "Internauts",
-  "theme_color": "#2196f3",
-  "background_color": "#2196f3",
-  "display": "standalone",
-  "orientation": "landscape",
-  "scope": "/",
-  "start_url": "/"
+ "short_name": "Internauts",
+ "name": "Internauts",
+ "lang": "en",
+ "start_url": "https://cojens.github.io/",
+ "background_color": "#00aae7",
+ "theme_color": "#00aae7",
+ "dir": "ltr",
+ "display": "fullscreen",
+ "orientation": "landscape",
+ "prefer_related_applications": "false"
 }
