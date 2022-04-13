@@ -1,0 +1,453 @@
+[
+  [
+    "Fight",
+    "Escape",
+    "Attack",
+    "Guard",
+    "Item",
+    "Skill",
+    "Equip",
+    "Status",
+    "Formation",
+    "Save",
+    "Game End",
+    "Options",
+    "Weapon",
+    "Armor",
+    "Key Item",
+    "Equip",
+    "Optimize",
+    "Clear",
+    "New Game",
+    "Continue",
+    null,
+    "To Title",
+    "Cancel",
+    null,
+    "Buy",
+    "Sell"
+  ],
+  {
+    "Language": null
+  },
+  {
+    "42936597": "Hutje van stro"
+  },
+  {
+    "82272385": "Below are spaces for when you would like to display\nthings above skills when you open the menu."
+  },
+  {
+    "81941878": "Performs a series of attacks on an enemy."
+  },
+  {
+    "74952860": "Performs a double attack on a random enemy."
+  },
+  {
+    "68986967": "Performs a triple attack on a random enemy."
+  },
+  {
+    "85649739": "The user flees from battle."
+  },
+  {
+    "24451627": "Waits to see what happens."
+  },
+  {
+    "91049061": "Absorbs HP from an enemy."
+  },
+  {
+    "43871693": "Restores the user’s HP."
+  },
+  {
+    "75917767": "Stabs an enemy with paralyzing needles."
+  },
+  {
+    "22787163": "Inflicts damage and causes an enemy to lose balance."
+  },
+  {
+    "73536973": "Inflicts Thunder-type damage and Paralysis state."
+  },
+  {
+    "40684983": "Covers an enemy in slime and lowers their Agility."
+  },
+  {
+    "58551785": "Sprays an enemy with venom and inflicts Poison state."
+  },
+  {
+    "85612223": "Rouses the user’s fighting spirit and fortifies\ntheir abilities."
+  },
+  {
+    "50097921": "Absorbs MP from an enemy."
+  },
+  {
+    "58289473": "Glares at an enemy and paralyzes them."
+  },
+  {
+    "56108883": "Blinds an enemy."
+  },
+  {
+    "63210731": "Blinds all enemies."
+  },
+  {
+    "78864716": "Blinds all enemies."
+  },
+  {
+    "35862751": "Poisons all enemies."
+  },
+  {
+    "64712816": "Puts all enemies to sleep."
+  },
+  {
+    "13450284": "Charms all enemies."
+  },
+  {
+    "72587278": "Seals all enemies’ magic."
+  },
+  {
+    "23002497": "Confuses all enemies."
+  },
+  {
+    "25707849": "Inflicts Earth-type damage on all enemies."
+  },
+  {
+    "69787261": "Inflicts Wind-type damage on all enemies."
+  },
+  {
+    "40049107": "Inflicts Fire-type damage on all enemies."
+  },
+  {
+    "44895889": "Inflicts Ice-type damage on all enemies."
+  },
+  {
+    "50774386": "Inflicts Earth-type damage on all enemies."
+  },
+  {
+    "23740251": "Inflicts Water-type damage on all enemies."
+  },
+  {
+    "65370254": "Inflicts damage on an enemy."
+  },
+  {
+    "99443507": "Restores an ally’s HP."
+  },
+  {
+    "35667611": "Restores an ally’s HP."
+  },
+  {
+    "91955769": "Restores an ally’s HP."
+  },
+  {
+    "81820088": "Restores all allies’ HP."
+  },
+  {
+    "88180126": "Restores all allies’ HP."
+  },
+  {
+    "69830467": "Restores all allies’ HP."
+  },
+  {
+    "10287687": "Cures an ally’s Poison, Paralysis, or Sleep state."
+  },
+  {
+    "41591604": "Cures an ally’s status ailments other than Dead."
+  },
+  {
+    "13367774": "Cures all allies’ status ailments other than Dead."
+  },
+  {
+    "73615269": "Raises an ally from the dead."
+  },
+  {
+    "82400132": "Raises an ally from the dead and greatly restores\ntheir HP."
+  },
+  {
+    "62006004": "Poisons all enemies."
+  },
+  {
+    "97523984": "Blinds all enemies."
+  },
+  {
+    "46643395": "Confuses all enemies."
+  },
+  {
+    "53997743": "Seals all enemies’ magic."
+  },
+  {
+    "18820755": "Puts all enemies to sleep."
+  },
+  {
+    "74415318": "Paralyzes all enemies."
+  },
+  {
+    "26947501": "Increases an ally’s Attack.\nUsable up to 2 times in a row."
+  },
+  {
+    "36734690": "Decreases all enemies’ Attack.\nUsable up to 2 times in a row."
+  },
+  {
+    "86146150": "Increases an ally’s Defense.\nUsable up to 2 times in a row."
+  },
+  {
+    "47910674": "Decreases all enemies’ Defense.\nUsable up to 2 times in a row."
+  },
+  {
+    "74506204": "Increases an ally’s M.Attack.\nUsable up to 2 times in a row."
+  },
+  {
+    "59450250": "Decreases all enemies’ M.Attack.\nUsable up to 2 times in a row."
+  },
+  {
+    "56543479": "Increases an ally’s M.Defense.\nUsable up to 2 times in a row."
+  },
+  {
+    "76339383": "Decreases all enemies’ M.Defense.\nUsable up to 2 times in a row."
+  },
+  {
+    "98426495": "Increases an ally’s Agility.\nUsable up to 2 times in a row."
+  },
+  {
+    "35406399": "Decreases all enemies’ Agility.\nUsable up to 2 times in a row."
+  },
+  {
+    "67606340": "Absorbs HP from an enemy."
+  },
+  {
+    "28823966": "Absorbs MP from an enemy."
+  },
+  {
+    "90330244": "Inflicts Fire-type damage on an enemy."
+  },
+  {
+    "42969922": "Inflicts Fire-type damage on an enemy."
+  },
+  {
+    "78979157": "Inflicts Fire-type damage on an enemy."
+  },
+  {
+    "66509672": "Inflicts Fire-type damage on all enemies."
+  },
+  {
+    "59878089": "Inflicts Fire-type damage on all enemies."
+  },
+  {
+    "91198586": "Inflicts Fire-type damage on all enemies."
+  },
+  {
+    "75688670": "Inflicts Ice-type damage on an enemy."
+  },
+  {
+    "98078729": "Inflicts Ice-type damage on an enemy."
+  },
+  {
+    "27346730": "Inflicts Ice-type damage on an enemy."
+  },
+  {
+    "87940360": "Inflicts Ice-type damage on all enemies."
+  },
+  {
+    "97818313": "Inflicts Ice-type damage on all enemies."
+  },
+  {
+    "35769306": "Inflicts Ice-type damage on all enemies."
+  },
+  {
+    "79244213": "Inflicts Thunder-type damage on an enemy."
+  },
+  {
+    "99492799": "Inflicts Thunder-type damage on an enemy."
+  },
+  {
+    "56984520": "Inflicts Thunder-type damage on an enemy."
+  },
+  {
+    "71939928": "Inflicts Thunder-type damage on all enemies."
+  },
+  {
+    "76042761": "Inflicts Thunder-type damage on all enemies."
+  },
+  {
+    "84804898": "Inflicts Thunder-type damage on all enemies."
+  },
+  {
+    "10734436": "Inflicts Water-type damage on an enemy."
+  },
+  {
+    "14234584": "Inflicts Water-type damage on an enemy."
+  },
+  {
+    "30343077": "Inflicts Water-type damage on all enemies."
+  },
+  {
+    "60976655": "Inflicts Water-type damage on all enemies."
+  },
+  {
+    "69179551": "Inflicts Earth-type damage on an enemy."
+  },
+  {
+    "63058221": "Inflicts Earth-type damage on an enemy."
+  },
+  {
+    "38671531": "Inflicts Earth-type damage on all enemies."
+  },
+  {
+    "67957122": "Inflicts Earth-type damage on all enemies."
+  },
+  {
+    "73767429": "Inflicts Wind-type damage on an enemy."
+  },
+  {
+    "57510350": "Inflicts Wind-type damage on an enemy."
+  },
+  {
+    "64169471": "Inflicts Wind-type damage on all enemies."
+  },
+  {
+    "40924982": "Inflicts Wind-type damage on all enemies."
+  },
+  {
+    "55878062": "Inflicts Light-type damage on an enemy."
+  },
+  {
+    "67870895": "Inflicts Light-type damage on an enemy."
+  },
+  {
+    "17778300": "Inflicts Light-type damage on all enemies."
+  },
+  {
+    "80009694": "Inflicts Light-type damage on all enemies."
+  },
+  {
+    "40267704": "Inflicts Darkness-type damage on an enemy."
+  },
+  {
+    "87882973": "Inflicts Darkness-type damage on an enemy."
+  },
+  {
+    "75559295": "Inflicts Darkness-type damage on all enemies."
+  },
+  {
+    "58265052": "Inflicts Darkness-type damage on all enemies."
+  },
+  {
+    "53449600": "Inflicts damage on an enemy regardless of Defense."
+  },
+  {
+    "90139524": "Inflicts damage on an enemy regardless of Defense."
+  },
+  {
+    "63366958": "Inflicts damage on all enemies regardless of Defense."
+  },
+  {
+    "89236494": "Inflicts damage on all enemies regardless of Defense."
+  },
+  {
+    "16250761": "Performs a powerful attack on an enemy."
+  },
+  {
+    "57070839": "Attacks all enemies."
+  },
+  {
+    "35627808": "Performs an attack on an enemy twice."
+  },
+  {
+    "57905017": "Rouses the user’s fighting spirit and increases\nAttack. Usable up to 2 times in a row."
+  },
+  {
+    "95627121": "Restores an ally’s HP."
+  },
+  {
+    "47820606": "Performs a super powerful attack on an enemy."
+  },
+  {
+    "61246221": "Performs a powerful attack on all enemies."
+  },
+  {
+    "42484106": "Increases all allies’ Defense and M.Defense.\nUsable up to 2 times in a row."
+  },
+  {
+    "35498526": "Greatly increases the user’s M.Attack for 5 turns."
+  },
+  {
+    "21770983": "Rouses all allies’ fighting spirit and increases\nAttack. Usable up to 2 times in a row."
+  },
+  {
+    "70970803": "Inflicts damage on all enemies regardless of Defense."
+  },
+  {
+    "85558904": "Bestows Fire-type for 5 turns."
+  },
+  {
+    "89611864": "Bestows Ice-type for 5 turns."
+  },
+  {
+    "25183116": "Bestows Thunder-type for 5 turns."
+  },
+  {
+    "43454670": "Reflects M.Attack aimed at the user for 5 turns."
+  },
+  {
+    "70189360": "Automatically protects allies with low HP for 1 turn."
+  },
+  {
+    "67613430": "Performs an attack on an enemy faster than anyone\nelse."
+  },
+  {
+    "14161361": "Performs an attack on an enemy twice."
+  },
+  {
+    "55485889": "Inflicts damage on all enemies regardless of Defense."
+  },
+  {
+    "95039484": "Rouses all allies’ fighting spirit and increases\nAttack. Usable up to 2 times in a row."
+  },
+  {
+    "77581568": "Attacks all enemies."
+  },
+  {
+    "55800893": "Slightly increases the user’s TP."
+  },
+  {
+    "15254321": "Randomly performs 4 attacks on 4 enemies."
+  },
+  {
+    "12350958": "Blinds an enemy."
+  },
+  {
+    "14512421": "Increases the user’s Agility."
+  },
+  {
+    "26413972": "Blinds all enemies."
+  },
+  {
+    "24455465": "Increases items and money gained from battle for\na while."
+  },
+  {
+    "77837591": "Inflicts Wind-type damage on all enemies."
+  },
+  {
+    "39017239": "Makes the user harder to target."
+  },
+  {
+    "63095256": "Inflicts damage and causes all enemies to lose balance."
+  },
+  {
+    "44897637": "Cures the user from being weakened."
+  },
+  {
+    "34654733": "Inflicts huge damage on all enemies."
+  },
+  {
+    "30381023": "Inflicts damage on an enemy regardless of Defense."
+  },
+  {
+    "41429796": "Decreases an enemy’s Attack and Defense."
+  },
+  {
+    "66233292": "Shoots at the footing of all enemies and causes them\nto lose balance."
+  },
+  {
+    "41911298": "Inflicts damage on an enemy 5 times."
+  },
+  {
+    "32731415": "Inflicts damage on all enemies 2 times."
+  }
+]
