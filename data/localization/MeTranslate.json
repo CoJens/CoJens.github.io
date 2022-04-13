@@ -1,0 +1,844 @@
+[
+  {
+    "map": 1,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "42936597",
+    "type": "message",
+    "default": "House"
+  },
+  {
+    "skillId": 3,
+    "parent": "skill",
+    "key": "82272385",
+    "default": "Below are spaces for when you would like to display\nthings above skills when you open the menu."
+  },
+  {
+    "skillId": 12,
+    "parent": "skill",
+    "key": "81941878",
+    "default": "Performs a series of attacks on an enemy."
+  },
+  {
+    "skillId": 13,
+    "parent": "skill",
+    "key": "74952860",
+    "default": "Performs a double attack on a random enemy."
+  },
+  {
+    "skillId": 14,
+    "parent": "skill",
+    "key": "68986967",
+    "default": "Performs a triple attack on a random enemy."
+  },
+  {
+    "skillId": 15,
+    "parent": "skill",
+    "key": "85649739",
+    "default": "The user flees from battle."
+  },
+  {
+    "skillId": 16,
+    "parent": "skill",
+    "key": "24451627",
+    "default": "Waits to see what happens."
+  },
+  {
+    "skillId": 17,
+    "parent": "skill",
+    "key": "91049061",
+    "default": "Absorbs HP from an enemy."
+  },
+  {
+    "skillId": 18,
+    "parent": "skill",
+    "key": "43871693",
+    "default": "Restores the user’s HP."
+  },
+  {
+    "skillId": 19,
+    "parent": "skill",
+    "key": "75917767",
+    "default": "Stabs an enemy with paralyzing needles."
+  },
+  {
+    "skillId": 20,
+    "parent": "skill",
+    "key": "22787163",
+    "default": "Inflicts damage and causes an enemy to lose balance."
+  },
+  {
+    "skillId": 21,
+    "parent": "skill",
+    "key": "73536973",
+    "default": "Inflicts Thunder-type damage and Paralysis state."
+  },
+  {
+    "skillId": 22,
+    "parent": "skill",
+    "key": "40684983",
+    "default": "Covers an enemy in slime and lowers their Agility."
+  },
+  {
+    "skillId": 23,
+    "parent": "skill",
+    "key": "58551785",
+    "default": "Sprays an enemy with venom and inflicts Poison state."
+  },
+  {
+    "skillId": 24,
+    "parent": "skill",
+    "key": "85612223",
+    "default": "Rouses the user’s fighting spirit and fortifies\ntheir abilities."
+  },
+  {
+    "skillId": 25,
+    "parent": "skill",
+    "key": "50097921",
+    "default": "Absorbs MP from an enemy."
+  },
+  {
+    "skillId": 26,
+    "parent": "skill",
+    "key": "58289473",
+    "default": "Glares at an enemy and paralyzes them."
+  },
+  {
+    "skillId": 27,
+    "parent": "skill",
+    "key": "56108883",
+    "default": "Blinds an enemy."
+  },
+  {
+    "skillId": 28,
+    "parent": "skill",
+    "key": "63210731",
+    "default": "Blinds all enemies."
+  },
+  {
+    "skillId": 29,
+    "parent": "skill",
+    "key": "78864716",
+    "default": "Blinds all enemies."
+  },
+  {
+    "skillId": 30,
+    "parent": "skill",
+    "key": "35862751",
+    "default": "Poisons all enemies."
+  },
+  {
+    "skillId": 31,
+    "parent": "skill",
+    "key": "64712816",
+    "default": "Puts all enemies to sleep."
+  },
+  {
+    "skillId": 32,
+    "parent": "skill",
+    "key": "13450284",
+    "default": "Charms all enemies."
+  },
+  {
+    "skillId": 33,
+    "parent": "skill",
+    "key": "72587278",
+    "default": "Seals all enemies’ magic."
+  },
+  {
+    "skillId": 34,
+    "parent": "skill",
+    "key": "23002497",
+    "default": "Confuses all enemies."
+  },
+  {
+    "skillId": 35,
+    "parent": "skill",
+    "key": "25707849",
+    "default": "Inflicts Earth-type damage on all enemies."
+  },
+  {
+    "skillId": 36,
+    "parent": "skill",
+    "key": "69787261",
+    "default": "Inflicts Wind-type damage on all enemies."
+  },
+  {
+    "skillId": 37,
+    "parent": "skill",
+    "key": "40049107",
+    "default": "Inflicts Fire-type damage on all enemies."
+  },
+  {
+    "skillId": 38,
+    "parent": "skill",
+    "key": "44895889",
+    "default": "Inflicts Ice-type damage on all enemies."
+  },
+  {
+    "skillId": 39,
+    "parent": "skill",
+    "key": "50774386",
+    "default": "Inflicts Earth-type damage on all enemies."
+  },
+  {
+    "skillId": 40,
+    "parent": "skill",
+    "key": "23740251",
+    "default": "Inflicts Water-type damage on all enemies."
+  },
+  {
+    "skillId": 41,
+    "parent": "skill",
+    "key": "65370254",
+    "default": "Inflicts damage on an enemy."
+  },
+  {
+    "skillId": 52,
+    "parent": "skill",
+    "key": "99443507",
+    "default": "Restores an ally’s HP."
+  },
+  {
+    "skillId": 53,
+    "parent": "skill",
+    "key": "35667611",
+    "default": "Restores an ally’s HP."
+  },
+  {
+    "skillId": 54,
+    "parent": "skill",
+    "key": "91955769",
+    "default": "Restores an ally’s HP."
+  },
+  {
+    "skillId": 56,
+    "parent": "skill",
+    "key": "81820088",
+    "default": "Restores all allies’ HP."
+  },
+  {
+    "skillId": 57,
+    "parent": "skill",
+    "key": "88180126",
+    "default": "Restores all allies’ HP."
+  },
+  {
+    "skillId": 58,
+    "parent": "skill",
+    "key": "69830467",
+    "default": "Restores all allies’ HP."
+  },
+  {
+    "skillId": 60,
+    "parent": "skill",
+    "key": "10287687",
+    "default": "Cures an ally’s Poison, Paralysis, or Sleep state."
+  },
+  {
+    "skillId": 61,
+    "parent": "skill",
+    "key": "41591604",
+    "default": "Cures an ally’s status ailments other than Dead."
+  },
+  {
+    "skillId": 62,
+    "parent": "skill",
+    "key": "13367774",
+    "default": "Cures all allies’ status ailments other than Dead."
+  },
+  {
+    "skillId": 64,
+    "parent": "skill",
+    "key": "73615269",
+    "default": "Raises an ally from the dead."
+  },
+  {
+    "skillId": 65,
+    "parent": "skill",
+    "key": "82400132",
+    "default": "Raises an ally from the dead and greatly restores\ntheir HP."
+  },
+  {
+    "skillId": 71,
+    "parent": "skill",
+    "key": "62006004",
+    "default": "Poisons all enemies."
+  },
+  {
+    "skillId": 72,
+    "parent": "skill",
+    "key": "97523984",
+    "default": "Blinds all enemies."
+  },
+  {
+    "skillId": 73,
+    "parent": "skill",
+    "key": "46643395",
+    "default": "Confuses all enemies."
+  },
+  {
+    "skillId": 74,
+    "parent": "skill",
+    "key": "53997743",
+    "default": "Seals all enemies’ magic."
+  },
+  {
+    "skillId": 75,
+    "parent": "skill",
+    "key": "18820755",
+    "default": "Puts all enemies to sleep."
+  },
+  {
+    "skillId": 76,
+    "parent": "skill",
+    "key": "74415318",
+    "default": "Paralyzes all enemies."
+  },
+  {
+    "skillId": 81,
+    "parent": "skill",
+    "key": "26947501",
+    "default": "Increases an ally’s Attack.\nUsable up to 2 times in a row."
+  },
+  {
+    "skillId": 82,
+    "parent": "skill",
+    "key": "36734690",
+    "default": "Decreases all enemies’ Attack.\nUsable up to 2 times in a row."
+  },
+  {
+    "skillId": 83,
+    "parent": "skill",
+    "key": "86146150",
+    "default": "Increases an ally’s Defense.\nUsable up to 2 times in a row."
+  },
+  {
+    "skillId": 84,
+    "parent": "skill",
+    "key": "47910674",
+    "default": "Decreases all enemies’ Defense.\nUsable up to 2 times in a row."
+  },
+  {
+    "skillId": 85,
+    "parent": "skill",
+    "key": "74506204",
+    "default": "Increases an ally’s M.Attack.\nUsable up to 2 times in a row."
+  },
+  {
+    "skillId": 86,
+    "parent": "skill",
+    "key": "59450250",
+    "default": "Decreases all enemies’ M.Attack.\nUsable up to 2 times in a row."
+  },
+  {
+    "skillId": 87,
+    "parent": "skill",
+    "key": "56543479",
+    "default": "Increases an ally’s M.Defense.\nUsable up to 2 times in a row."
+  },
+  {
+    "skillId": 88,
+    "parent": "skill",
+    "key": "76339383",
+    "default": "Decreases all enemies’ M.Defense.\nUsable up to 2 times in a row."
+  },
+  {
+    "skillId": 89,
+    "parent": "skill",
+    "key": "98426495",
+    "default": "Increases an ally’s Agility.\nUsable up to 2 times in a row."
+  },
+  {
+    "skillId": 90,
+    "parent": "skill",
+    "key": "35406399",
+    "default": "Decreases all enemies’ Agility.\nUsable up to 2 times in a row."
+  },
+  {
+    "skillId": 91,
+    "parent": "skill",
+    "key": "67606340",
+    "default": "Absorbs HP from an enemy."
+  },
+  {
+    "skillId": 92,
+    "parent": "skill",
+    "key": "28823966",
+    "default": "Absorbs MP from an enemy."
+  },
+  {
+    "skillId": 99,
+    "parent": "skill",
+    "key": "90330244",
+    "default": "Inflicts Fire-type damage on an enemy."
+  },
+  {
+    "skillId": 100,
+    "parent": "skill",
+    "key": "42969922",
+    "default": "Inflicts Fire-type damage on an enemy."
+  },
+  {
+    "skillId": 101,
+    "parent": "skill",
+    "key": "78979157",
+    "default": "Inflicts Fire-type damage on an enemy."
+  },
+  {
+    "skillId": 103,
+    "parent": "skill",
+    "key": "66509672",
+    "default": "Inflicts Fire-type damage on all enemies."
+  },
+  {
+    "skillId": 104,
+    "parent": "skill",
+    "key": "59878089",
+    "default": "Inflicts Fire-type damage on all enemies."
+  },
+  {
+    "skillId": 105,
+    "parent": "skill",
+    "key": "91198586",
+    "default": "Inflicts Fire-type damage on all enemies."
+  },
+  {
+    "skillId": 107,
+    "parent": "skill",
+    "key": "75688670",
+    "default": "Inflicts Ice-type damage on an enemy."
+  },
+  {
+    "skillId": 108,
+    "parent": "skill",
+    "key": "98078729",
+    "default": "Inflicts Ice-type damage on an enemy."
+  },
+  {
+    "skillId": 109,
+    "parent": "skill",
+    "key": "27346730",
+    "default": "Inflicts Ice-type damage on an enemy."
+  },
+  {
+    "skillId": 111,
+    "parent": "skill",
+    "key": "87940360",
+    "default": "Inflicts Ice-type damage on all enemies."
+  },
+  {
+    "skillId": 112,
+    "parent": "skill",
+    "key": "97818313",
+    "default": "Inflicts Ice-type damage on all enemies."
+  },
+  {
+    "skillId": 113,
+    "parent": "skill",
+    "key": "35769306",
+    "default": "Inflicts Ice-type damage on all enemies."
+  },
+  {
+    "skillId": 115,
+    "parent": "skill",
+    "key": "79244213",
+    "default": "Inflicts Thunder-type damage on an enemy."
+  },
+  {
+    "skillId": 116,
+    "parent": "skill",
+    "key": "99492799",
+    "default": "Inflicts Thunder-type damage on an enemy."
+  },
+  {
+    "skillId": 117,
+    "parent": "skill",
+    "key": "56984520",
+    "default": "Inflicts Thunder-type damage on an enemy."
+  },
+  {
+    "skillId": 119,
+    "parent": "skill",
+    "key": "71939928",
+    "default": "Inflicts Thunder-type damage on all enemies."
+  },
+  {
+    "skillId": 120,
+    "parent": "skill",
+    "key": "76042761",
+    "default": "Inflicts Thunder-type damage on all enemies."
+  },
+  {
+    "skillId": 121,
+    "parent": "skill",
+    "key": "84804898",
+    "default": "Inflicts Thunder-type damage on all enemies."
+  },
+  {
+    "skillId": 123,
+    "parent": "skill",
+    "key": "10734436",
+    "default": "Inflicts Water-type damage on an enemy."
+  },
+  {
+    "skillId": 124,
+    "parent": "skill",
+    "key": "14234584",
+    "default": "Inflicts Water-type damage on an enemy."
+  },
+  {
+    "skillId": 126,
+    "parent": "skill",
+    "key": "30343077",
+    "default": "Inflicts Water-type damage on all enemies."
+  },
+  {
+    "skillId": 127,
+    "parent": "skill",
+    "key": "60976655",
+    "default": "Inflicts Water-type damage on all enemies."
+  },
+  {
+    "skillId": 129,
+    "parent": "skill",
+    "key": "69179551",
+    "default": "Inflicts Earth-type damage on an enemy."
+  },
+  {
+    "skillId": 130,
+    "parent": "skill",
+    "key": "63058221",
+    "default": "Inflicts Earth-type damage on an enemy."
+  },
+  {
+    "skillId": 132,
+    "parent": "skill",
+    "key": "38671531",
+    "default": "Inflicts Earth-type damage on all enemies."
+  },
+  {
+    "skillId": 133,
+    "parent": "skill",
+    "key": "67957122",
+    "default": "Inflicts Earth-type damage on all enemies."
+  },
+  {
+    "skillId": 135,
+    "parent": "skill",
+    "key": "73767429",
+    "default": "Inflicts Wind-type damage on an enemy."
+  },
+  {
+    "skillId": 136,
+    "parent": "skill",
+    "key": "57510350",
+    "default": "Inflicts Wind-type damage on an enemy."
+  },
+  {
+    "skillId": 138,
+    "parent": "skill",
+    "key": "64169471",
+    "default": "Inflicts Wind-type damage on all enemies."
+  },
+  {
+    "skillId": 139,
+    "parent": "skill",
+    "key": "40924982",
+    "default": "Inflicts Wind-type damage on all enemies."
+  },
+  {
+    "skillId": 141,
+    "parent": "skill",
+    "key": "55878062",
+    "default": "Inflicts Light-type damage on an enemy."
+  },
+  {
+    "skillId": 142,
+    "parent": "skill",
+    "key": "67870895",
+    "default": "Inflicts Light-type damage on an enemy."
+  },
+  {
+    "skillId": 144,
+    "parent": "skill",
+    "key": "17778300",
+    "default": "Inflicts Light-type damage on all enemies."
+  },
+  {
+    "skillId": 145,
+    "parent": "skill",
+    "key": "80009694",
+    "default": "Inflicts Light-type damage on all enemies."
+  },
+  {
+    "skillId": 147,
+    "parent": "skill",
+    "key": "40267704",
+    "default": "Inflicts Darkness-type damage on an enemy."
+  },
+  {
+    "skillId": 148,
+    "parent": "skill",
+    "key": "87882973",
+    "default": "Inflicts Darkness-type damage on an enemy."
+  },
+  {
+    "skillId": 150,
+    "parent": "skill",
+    "key": "75559295",
+    "default": "Inflicts Darkness-type damage on all enemies."
+  },
+  {
+    "skillId": 151,
+    "parent": "skill",
+    "key": "58265052",
+    "default": "Inflicts Darkness-type damage on all enemies."
+  },
+  {
+    "skillId": 153,
+    "parent": "skill",
+    "key": "53449600",
+    "default": "Inflicts damage on an enemy regardless of Defense."
+  },
+  {
+    "skillId": 154,
+    "parent": "skill",
+    "key": "90139524",
+    "default": "Inflicts damage on an enemy regardless of Defense."
+  },
+  {
+    "skillId": 156,
+    "parent": "skill",
+    "key": "63366958",
+    "default": "Inflicts damage on all enemies regardless of Defense."
+  },
+  {
+    "skillId": 157,
+    "parent": "skill",
+    "key": "89236494",
+    "default": "Inflicts damage on all enemies regardless of Defense."
+  },
+  {
+    "skillId": 172,
+    "parent": "skill",
+    "key": "16250761",
+    "default": "Performs a powerful attack on an enemy."
+  },
+  {
+    "skillId": 173,
+    "parent": "skill",
+    "key": "57070839",
+    "default": "Attacks all enemies."
+  },
+  {
+    "skillId": 174,
+    "parent": "skill",
+    "key": "35627808",
+    "default": "Performs an attack on an enemy twice."
+  },
+  {
+    "skillId": 175,
+    "parent": "skill",
+    "key": "57905017",
+    "default": "Rouses the user’s fighting spirit and increases\nAttack. Usable up to 2 times in a row."
+  },
+  {
+    "skillId": 176,
+    "parent": "skill",
+    "key": "95627121",
+    "default": "Restores an ally’s HP."
+  },
+  {
+    "skillId": 177,
+    "parent": "skill",
+    "key": "47820606",
+    "default": "Performs a super powerful attack on an enemy."
+  },
+  {
+    "skillId": 178,
+    "parent": "skill",
+    "key": "61246221",
+    "default": "Performs a powerful attack on all enemies."
+  },
+  {
+    "skillId": 186,
+    "parent": "skill",
+    "key": "42484106",
+    "default": "Increases all allies’ Defense and M.Defense.\nUsable up to 2 times in a row."
+  },
+  {
+    "skillId": 187,
+    "parent": "skill",
+    "key": "35498526",
+    "default": "Greatly increases the user’s M.Attack for 5 turns."
+  },
+  {
+    "skillId": 188,
+    "parent": "skill",
+    "key": "21770983",
+    "default": "Rouses all allies’ fighting spirit and increases\nAttack. Usable up to 2 times in a row."
+  },
+  {
+    "skillId": 189,
+    "parent": "skill",
+    "key": "70970803",
+    "default": "Inflicts damage on all enemies regardless of Defense."
+  },
+  {
+    "skillId": 190,
+    "parent": "skill",
+    "key": "85558904",
+    "default": "Bestows Fire-type for 5 turns."
+  },
+  {
+    "skillId": 191,
+    "parent": "skill",
+    "key": "89611864",
+    "default": "Bestows Ice-type for 5 turns."
+  },
+  {
+    "skillId": 192,
+    "parent": "skill",
+    "key": "25183116",
+    "default": "Bestows Thunder-type for 5 turns."
+  },
+  {
+    "skillId": 193,
+    "parent": "skill",
+    "key": "43454670",
+    "default": "Reflects M.Attack aimed at the user for 5 turns."
+  },
+  {
+    "skillId": 196,
+    "parent": "skill",
+    "key": "70189360",
+    "default": "Automatically protects allies with low HP for 1 turn."
+  },
+  {
+    "skillId": 197,
+    "parent": "skill",
+    "key": "67613430",
+    "default": "Performs an attack on an enemy faster than anyone\nelse."
+  },
+  {
+    "skillId": 198,
+    "parent": "skill",
+    "key": "14161361",
+    "default": "Performs an attack on an enemy twice."
+  },
+  {
+    "skillId": 199,
+    "parent": "skill",
+    "key": "55485889",
+    "default": "Inflicts damage on all enemies regardless of Defense."
+  },
+  {
+    "skillId": 200,
+    "parent": "skill",
+    "key": "95039484",
+    "default": "Rouses all allies’ fighting spirit and increases\nAttack. Usable up to 2 times in a row."
+  },
+  {
+    "skillId": 201,
+    "parent": "skill",
+    "key": "77581568",
+    "default": "Attacks all enemies."
+  },
+  {
+    "skillId": 202,
+    "parent": "skill",
+    "key": "55800893",
+    "default": "Slightly increases the user’s TP."
+  },
+  {
+    "skillId": 203,
+    "parent": "skill",
+    "key": "15254321",
+    "default": "Randomly performs 4 attacks on 4 enemies."
+  },
+  {
+    "skillId": 206,
+    "parent": "skill",
+    "key": "12350958",
+    "default": "Blinds an enemy."
+  },
+  {
+    "skillId": 207,
+    "parent": "skill",
+    "key": "14512421",
+    "default": "Increases the user’s Agility."
+  },
+  {
+    "skillId": 208,
+    "parent": "skill",
+    "key": "26413972",
+    "default": "Blinds all enemies."
+  },
+  {
+    "skillId": 209,
+    "parent": "skill",
+    "key": "24455465",
+    "default": "Increases items and money gained from battle for\na while."
+  },
+  {
+    "skillId": 210,
+    "parent": "skill",
+    "key": "77837591",
+    "default": "Inflicts Wind-type damage on all enemies."
+  },
+  {
+    "skillId": 211,
+    "parent": "skill",
+    "key": "39017239",
+    "default": "Makes the user harder to target."
+  },
+  {
+    "skillId": 216,
+    "parent": "skill",
+    "key": "63095256",
+    "default": "Inflicts damage and causes all enemies to lose balance."
+  },
+  {
+    "skillId": 217,
+    "parent": "skill",
+    "key": "44897637",
+    "default": "Cures the user from being weakened."
+  },
+  {
+    "skillId": 218,
+    "parent": "skill",
+    "key": "34654733",
+    "default": "Inflicts huge damage on all enemies."
+  },
+  {
+    "skillId": 219,
+    "parent": "skill",
+    "key": "30381023",
+    "default": "Inflicts damage on an enemy regardless of Defense."
+  },
+  {
+    "skillId": 226,
+    "parent": "skill",
+    "key": "41429796",
+    "default": "Decreases an enemy’s Attack and Defense."
+  },
+  {
+    "skillId": 227,
+    "parent": "skill",
+    "key": "66233292",
+    "default": "Shoots at the footing of all enemies and causes them\nto lose balance."
+  },
+  {
+    "skillId": 228,
+    "parent": "skill",
+    "key": "41911298",
+    "default": "Inflicts damage on an enemy 5 times."
+  },
+  {
+    "skillId": 229,
+    "parent": "skill",
+    "key": "32731415",
+    "default": "Inflicts damage on all enemies 2 times."
+  }
+]
