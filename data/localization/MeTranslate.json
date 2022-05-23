@@ -1,844 +1,5710 @@
 [
   {
-    "map": 1,
+    "map": 2,
     "eventId": 1,
     "parent": "map event",
-    "key": "42936597",
+    "key": "75711033",
     "type": "message",
-    "default": "House"
+    "default": "Dag \\n[1], welkom in mijn moeras."
+  },
+  {
+    "map": 2,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "27210022",
+    "type": "message",
+    "default": "Normaal zou ik je meer vertellen over de wereld"
+  },
+  {
+    "map": 2,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "47291948",
+    "type": "message",
+    "default": "van Internautica. "
+  },
+  {
+    "map": 2,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "77521088",
+    "type": "message",
+    "default": "Hij is namelijk niet meer zo veilig als hij "
+  },
+  {
+    "map": 2,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "73355537",
+    "type": "message",
+    "default": "vroeger was. "
+  },
+  {
+    "map": 2,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "77185881",
+    "type": "message",
+    "default": "Je zou op missie gaan om meer kennis te krijgen"
+  },
+  {
+    "map": 2,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "88326033",
+    "type": "message",
+    "default": "over de mogelijkheden, gevaren of tips om "
+  },
+  {
+    "map": 2,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "93773171",
+    "type": "message",
+    "default": "veilig in Internautica te verblijven. "
+  },
+  {
+    "map": 2,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "85063855",
+    "type": "message",
+    "default": "Misschien leer je wel voldoende om de slechte"
+  },
+  {
+    "map": 2,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "88111584",
+    "type": "message",
+    "default": "draak onder het kasteel te verslaan en een "
+  },
+  {
+    "map": 2,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "31278867",
+    "type": "message",
+    "default": "echte Internaut te worden!"
+  },
+  {
+    "map": 2,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "20783716",
+    "type": "message",
+    "default": "Maar genoeg hierover! Vandaag gaan we op een "
+  },
+  {
+    "map": 2,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "76638128",
+    "type": "message",
+    "default": "ander avontuur! Als ik de oude runentekens"
+  },
+  {
+    "map": 2,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "41563859",
+    "type": "message",
+    "default": "goed heb gelezen,wil jij vandaag geen Internaut"
+  },
+  {
+    "map": 2,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "70234564",
+    "type": "message",
+    "default": "worden maar een MEDIACOACH!"
+  },
+  {
+    "map": 2,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "48175714",
+    "type": "message",
+    "default": "Om je hierbij te helpen heb ik speciaal voor "
+  },
+  {
+    "map": 2,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "80234725",
+    "type": "message",
+    "default": "vandaag achter mij een teleportatiekristal"
+  },
+  {
+    "map": 2,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "55184022",
+    "type": "message",
+    "default": "getoverd. Als je hier door loopt kom je "
+  },
+  {
+    "map": 2,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "14687925",
+    "type": "message",
+    "default": "op verschillende plaatsen op Internautica."
+  },
+  {
+    "map": 2,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "59392489",
+    "type": "message",
+    "default": "Veel plezier!"
+  },
+  {
+    "map": 2,
+    "eventId": 2,
+    "parent": "map event",
+    "key": "61525136",
+    "type": "message",
+    "default": "*Welkom in mijn moeras! Hopelijk weet je wat je hier komt "
+  },
+  {
+    "map": 2,
+    "eventId": 2,
+    "parent": "map event",
+    "key": "26184508",
+    "type": "message",
+    "default": "doen! Voor ik je verder op verkenning laat gaan, wil ik je"
+  },
+  {
+    "map": 2,
+    "eventId": 2,
+    "parent": "map event",
+    "key": "31178298",
+    "type": "message",
+    "default": "testen. Als je klaar bent voor de uitdaging, praat dan met "
+  },
+  {
+    "map": 2,
+    "eventId": 2,
+    "parent": "map event",
+    "key": "91805464",
+    "type": "message",
+    "default": "het konijn, hij zal je de weg tonen naar mijn huis.*"
+  },
+  {
+    "map": 2,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "47041510",
+    "type": "message",
+    "default": "Het konijn flappert met zijn oren. Ik denk dat"
+  },
+  {
+    "map": 2,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "19426185",
+    "type": "message",
+    "default": "ik hem best volg."
+  },
+  {
+    "map": 2,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "80587955",
+    "type": "message",
+    "default": "Het konijn knippert met zijn ogen. Ik denk dat"
+  },
+  {
+    "map": 2,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "80041305",
+    "type": "message",
+    "default": "ik hem best volg."
+  },
+  {
+    "map": 3,
+    "eventId": 2,
+    "parent": "map event",
+    "key": "88075780",
+    "type": "message",
+    "default": "Nu even niet. Ik moet dringend dit hout kappen "
+  },
+  {
+    "map": 3,
+    "eventId": 2,
+    "parent": "map event",
+    "key": "51479162",
+    "type": "message",
+    "default": "voor het gaat regenen"
+  },
+  {
+    "map": 3,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "67652679",
+    "type": "message",
+    "default": "Wacht! Waar ga je heen?!"
+  },
+  {
+    "map": 3,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "28560759",
+    "type": "message",
+    "default": "Tadaaaaaaaa"
+  },
+  {
+    "map": 3,
+    "eventId": 4,
+    "parent": "map event",
+    "key": "20020601",
+    "type": "message",
+    "default": "Opgelet! Voorbij deze brug kom je in de wildernis! "
+  },
+  {
+    "map": 3,
+    "eventId": 4,
+    "parent": "map event",
+    "key": "43107362",
+    "type": "message",
+    "default": "Niet iedereen heeft de beste bedoelingen daar!"
+  },
+  {
+    "map": 3,
+    "eventId": 4,
+    "parent": "map event",
+    "key": "91282151",
+    "type": "message",
+    "default": "Kijk dus goed uit met wie je omgaat en wat je allemaal deelt."
+  },
+  {
+    "map": 3,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "88725167",
+    "type": "message",
+    "default": "Wacht! Waar ga je heen?!"
+  },
+  {
+    "map": 3,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "27064965",
+    "type": "message",
+    "default": "Tadaaaaaaaa"
+  },
+  {
+    "map": 3,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "49472373",
+    "type": "message",
+    "default": "Wacht! Waar ga je heen?!"
+  },
+  {
+    "map": 3,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "97980036",
+    "type": "message",
+    "default": "Tadaaaaaaaa"
+  },
+  {
+    "map": 3,
+    "eventId": 7,
+    "parent": "map event",
+    "key": "65886646",
+    "type": "message",
+    "default": "Wacht! Waar ga je heen?!"
+  },
+  {
+    "map": 3,
+    "eventId": 7,
+    "parent": "map event",
+    "key": "71932963",
+    "type": "message",
+    "default": "Tadaaaaaaaa"
+  },
+  {
+    "map": 4,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "64570130",
+    "type": "choices",
+    "default": [
+      "Jongen",
+      "Meisje",
+      "Vertel ik liever niet"
+    ]
+  },
+  {
+    "map": 6,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "41446319",
+    "type": "message",
+    "default": "Dag \\n[1], dit is mijn kasteel. "
+  },
+  {
+    "map": 6,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "46236006",
+    "type": "message",
+    "default": "Hieronder in de kerkers bewaak ik het schild "
+  },
+  {
+    "map": 6,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "42028315",
+    "type": "message",
+    "default": "van Internautica. Enkel een echte"
+  },
+  {
+    "map": 6,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "40901434",
+    "type": "message",
+    "default": "Internaut zou dit van mij meekrijgen."
+  },
+  {
+    "map": 6,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "52019590",
+    "type": "message",
+    "default": "Maar jou avontuur is vandaag niet voor dit schild! "
+  },
+  {
+    "map": 6,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "95151705",
+    "type": "message",
+    "default": "De beslissing is niet vandaag aan mij! "
+  },
+  {
+    "map": 6,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "30987679",
+    "type": "message",
+    "default": "Maar aan de raad van wijze ridders en "
+  },
+  {
+    "map": 6,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "82861349",
+    "type": "message",
+    "default": "prinsessen die zullen beslissen of jij waardig "
+  },
+  {
+    "map": 6,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "79734432",
+    "type": "message",
+    "default": "bent om een heuse mediacoach te worden!"
+  },
+  {
+    "map": 6,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "31162234",
+    "type": "message",
+    "default": "Ik hoop je hier snel weer te zien om je ook in "
+  },
+  {
+    "map": 6,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "64282118",
+    "type": "message",
+    "default": "Internautica te bewijzen en het op te nemen "
+  },
+  {
+    "map": 6,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "93179102",
+    "type": "message",
+    "default": "tegen mij! Maar nu laat ik je gaan! "
+  },
+  {
+    "map": 6,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "65034475",
+    "type": "message",
+    "default": "Veel succes! Ik kruis al mijn klauwen voor je!"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "44931699",
+    "type": "message",
+    "default": "Ik heb je net naar hier getoverd. "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "89965792",
+    "type": "message",
+    "default": "Wanneer je op missie bent in Internautica zul"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "98619676",
+    "type": "message",
+    "default": "je zelf naar hier moeten varen met een boot."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "93346842",
+    "type": "message",
+    "default": "Natuurlijk krijg je die niet zomaar. Je zou je"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "33611544",
+    "type": "message",
+    "default": "eerst aan mij moeten bewijzen dat al voldoende"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "87967389",
+    "type": "message",
+    "default": "weet voor je Internautica verder betreedt. "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "41486305",
+    "type": "message",
+    "default": "Deze stad heeft vele belangrijke gebouwen. "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "97737228",
+    "type": "message",
+    "default": "In elk van deze gebouwen vind je belangrijke "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "50118957",
+    "type": "message",
+    "default": "informatie. "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "67733578",
+    "type": "message",
+    "default": "Ook op de markt vind je vele mensen die erg "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "64861124",
+    "type": "message",
+    "default": "geïnteresseerd zijn in jou en je hulp kunnen"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "71005959",
+    "type": "message",
+    "default": "gebruiken. "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "74376122",
+    "type": "message",
+    "default": "Waar zou jij meer over willen weten? "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "30161716",
+    "type": "choices",
+    "default": [
+      "Het schip",
+      "De herberg",
+      "De school",
+      "Ik wil zelf gaan ontdekken."
+    ]
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "88663458",
+    "type": "message",
+    "default": "Het schip is van een beruchte piraat."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "15574899",
+    "type": "message",
+    "default": "Hij durft wel eens gevaarlijke wateren bezoeken."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "59860145",
+    "type": "message",
+    "default": "Plaatsen waar je eigenlijk beter niet komt."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "38935686",
+    "type": "message",
+    "default": "Hij probeert je graag te overtuigen om mee te "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "95071934",
+    "type": "message",
+    "default": "gaan op avontuur. Hopelijk laat je jezelf niet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "72397237",
+    "type": "message",
+    "default": "verleiden om in te gaan op dit voorstel."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "19740756",
+    "type": "message",
+    "default": "Beter hier blijven, waar het veilig is."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "56226533",
+    "type": "choices",
+    "default": [
+      "Het schip",
+      "De herberg",
+      "De school",
+      "Ik wil zelf gaan ontdekken."
+    ]
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "18944669",
+    "type": "message",
+    "default": "Het schip is van een beruchte piraat."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "57280332",
+    "type": "message",
+    "default": "Hij durft wel eens gevaarlijke wateren bezoeken."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "98780017",
+    "type": "message",
+    "default": "Plaatsen waar je eigenlijk beter niet komt."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "17334623",
+    "type": "message",
+    "default": "Hij probeert je graag te overtuigen om mee te "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "66507243",
+    "type": "message",
+    "default": "gaan op avontuur. Hopelijk laat je jezelf niet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "25831165",
+    "type": "message",
+    "default": "verleiden om in te gaan op dit voorstel."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "56422515",
+    "type": "message",
+    "default": "Beter hier blijven, waar het veilig is."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "85787966",
+    "type": "choices",
+    "default": [
+      "Het schip",
+      "De herberg",
+      "De school",
+      "Ik wil zelf gaan ontdekken."
+    ]
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "49468280",
+    "type": "message",
+    "default": "Het schip is van een beruchte piraat."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "50535145",
+    "type": "message",
+    "default": "Hij durft wel eens gevaarlijke wateren bezoeken."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "74183885",
+    "type": "message",
+    "default": "Plaatsen waar je eigenlijk beter niet komt."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "49629741",
+    "type": "message",
+    "default": "Hij probeert je graag te overtuigen om mee te "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "99008525",
+    "type": "message",
+    "default": "gaan op avontuur. Hopelijk laat je jezelf niet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "47563316",
+    "type": "message",
+    "default": "verleiden om in te gaan op dit voorstel."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "66939877",
+    "type": "message",
+    "default": "Beter hier blijven, waar het veilig is."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "29562499",
+    "type": "message",
+    "default": "In de herberg kan je gaan rusten van je zware "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "40726246",
+    "type": "message",
+    "default": "tocht tot nu toe. Of je kan gezellig met de "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "77655691",
+    "type": "message",
+    "default": "andere mensen van de herberg wat bijpraten."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "12019420",
+    "type": "message",
+    "default": "Hopelijk geloof je niet alles en iedereen "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "16129979",
+    "type": "message",
+    "default": "zomaar. Roddels, leugens of zelfs pesten van "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "78243023",
+    "type": "message",
+    "default": "andere inwoners durft hier wel eens voorvallen."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "63048712",
+    "type": "message",
+    "default": "Hier woont een wijze man! Hij kan je tips "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "50143742",
+    "type": "message",
+    "default": "geven en je verder helpen als je niet goed weet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "42316335",
+    "type": "message",
+    "default": "hoe je veilig verder kan gaan in Internautica."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "33054045",
+    "type": "message",
+    "default": "Super! Als je verder wil reizen kan je me "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "58872139",
+    "type": "message",
+    "default": "vinden voor de school bij het kristal."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "77474006",
+    "type": "message",
+    "default": "In de herberg kan je gaan rusten van je zware "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "70752231",
+    "type": "message",
+    "default": "tocht tot nu toe. Of je kan gezellig met de "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "84087041",
+    "type": "message",
+    "default": "andere mensen van de herberg wat bijpraten."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "53434582",
+    "type": "message",
+    "default": "Hopelijk geloof je niet alles en iedereen "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "34344908",
+    "type": "message",
+    "default": "zomaar. Roddels, leugens of zelfs pesten van "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "29771517",
+    "type": "message",
+    "default": "andere inwoners durft hier wel eens voorvallen."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "30940952",
+    "type": "choices",
+    "default": [
+      "Het schip",
+      "De herberg",
+      "De school",
+      "Ik wil zelf gaan ontdekken."
+    ]
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "32866110",
+    "type": "message",
+    "default": "Het schip is van een beruchte piraat."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "48452901",
+    "type": "message",
+    "default": "Hij durft wel eens gevaarlijke wateren bezoeken."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "48131283",
+    "type": "message",
+    "default": "Plaatsen waar je eigenlijk beter niet komt."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "10842400",
+    "type": "message",
+    "default": "Hij probeert je graag te overtuigen om mee te "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "99795325",
+    "type": "message",
+    "default": "gaan op avontuur. Hopelijk laat je jezelf niet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "63023457",
+    "type": "message",
+    "default": "verleiden om in te gaan op dit voorstel."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "68762197",
+    "type": "message",
+    "default": "Beter hier blijven, waar het veilig is."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "93373134",
+    "type": "message",
+    "default": "In de herberg kan je gaan rusten van je zware "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "72814582",
+    "type": "message",
+    "default": "tocht tot nu toe. Of je kan gezellig met de "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "72110550",
+    "type": "message",
+    "default": "andere mensen van de herberg wat bijpraten."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "58981118",
+    "type": "message",
+    "default": "Hopelijk geloof je niet alles en iedereen "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "68767105",
+    "type": "message",
+    "default": "zomaar. Roddels, leugens of zelfs pesten van "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "19634550",
+    "type": "message",
+    "default": "andere inwoners durft hier wel eens voorvallen."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "48571253",
+    "type": "message",
+    "default": "Hier woont een wijze man! Hij kan je tips "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "88465939",
+    "type": "message",
+    "default": "geven en je verder helpen als je niet goed weet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "16969383",
+    "type": "message",
+    "default": "hoe je veilig verder kan gaan in Internautica."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "80641118",
+    "type": "message",
+    "default": "Super! Als je verder wil reizen kan je me "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "46672993",
+    "type": "message",
+    "default": "vinden voor de school bij het kristal."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "23664293",
+    "type": "message",
+    "default": "Hier woont een wijze man! Hij kan je tips "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "39677130",
+    "type": "message",
+    "default": "geven en je verder helpen als je niet goed weet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "38730719",
+    "type": "message",
+    "default": "hoe je veilig verder kan gaan in Internautica."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "87595811",
+    "type": "choices",
+    "default": [
+      "Het schip",
+      "De herberg",
+      "De school",
+      "Ik wil zelf gaan ontdekken."
+    ]
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "53234048",
+    "type": "message",
+    "default": "Het schip is van een beruchte piraat."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "65969897",
+    "type": "message",
+    "default": "Hij durft wel eens gevaarlijke wateren bezoeken."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "89315302",
+    "type": "message",
+    "default": "Plaatsen waar je eigenlijk beter niet komt."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "97696117",
+    "type": "message",
+    "default": "Hij probeert je graag te overtuigen om mee te "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "57067586",
+    "type": "message",
+    "default": "gaan op avontuur. Hopelijk laat je jezelf niet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "94699875",
+    "type": "message",
+    "default": "verleiden om in te gaan op dit voorstel."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "22654547",
+    "type": "message",
+    "default": "Beter hier blijven, waar het veilig is."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "88923499",
+    "type": "message",
+    "default": "In de herberg kan je gaan rusten van je zware "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "23312322",
+    "type": "message",
+    "default": "tocht tot nu toe. Of je kan gezellig met de "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "61816569",
+    "type": "message",
+    "default": "andere mensen van de herberg wat bijpraten."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "21036170",
+    "type": "message",
+    "default": "Hopelijk geloof je niet alles en iedereen "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "33632637",
+    "type": "message",
+    "default": "zomaar. Roddels, leugens of zelfs pesten van "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "42791357",
+    "type": "message",
+    "default": "andere inwoners durft hier wel eens voorvallen."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "41442053",
+    "type": "message",
+    "default": "Hier woont een wijze man! Hij kan je tips "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "21784297",
+    "type": "message",
+    "default": "geven en je verder helpen als je niet goed weet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "54462507",
+    "type": "message",
+    "default": "hoe je veilig verder kan gaan in Internautica."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "35208866",
+    "type": "message",
+    "default": "Super! Als je verder wil reizen kan je me "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "54968518",
+    "type": "message",
+    "default": "vinden voor de school bij het kristal."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "22621951",
+    "type": "message",
+    "default": "Super! Als je verder wil reizen kan je me "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "84409729",
+    "type": "message",
+    "default": "vinden voor de school bij het kristal."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "64878881",
+    "type": "choices",
+    "default": [
+      "Het schip",
+      "De herberg",
+      "De school",
+      "Ik wil zelf gaan ontdekken."
+    ]
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "26561452",
+    "type": "message",
+    "default": "Het schip is van een beruchte piraat."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "61902609",
+    "type": "message",
+    "default": "Hij durft wel eens gevaarlijke wateren bezoeken."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "64718031",
+    "type": "message",
+    "default": "Plaatsen waar je eigenlijk beter niet komt."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "55058340",
+    "type": "message",
+    "default": "Hij probeert je graag te overtuigen om mee te "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "81223570",
+    "type": "message",
+    "default": "gaan op avontuur. Hopelijk laat je jezelf niet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "95311205",
+    "type": "message",
+    "default": "verleiden om in te gaan op dit voorstel."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "56108264",
+    "type": "message",
+    "default": "Beter hier blijven, waar het veilig is."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "39325658",
+    "type": "message",
+    "default": "In de herberg kan je gaan rusten van je zware "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "17640198",
+    "type": "message",
+    "default": "tocht tot nu toe. Of je kan gezellig met de "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "70808413",
+    "type": "message",
+    "default": "andere mensen van de herberg wat bijpraten."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "90023266",
+    "type": "message",
+    "default": "Hopelijk geloof je niet alles en iedereen "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "46301464",
+    "type": "message",
+    "default": "zomaar. Roddels, leugens of zelfs pesten van "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "17173552",
+    "type": "message",
+    "default": "andere inwoners durft hier wel eens voorvallen."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "53525304",
+    "type": "message",
+    "default": "Hier woont een wijze man! Hij kan je tips "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "81913259",
+    "type": "message",
+    "default": "geven en je verder helpen als je niet goed weet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "87765773",
+    "type": "message",
+    "default": "hoe je veilig verder kan gaan in Internautica."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "65714054",
+    "type": "message",
+    "default": "Super! Als je verder wil reizen kan je me "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "87678429",
+    "type": "message",
+    "default": "vinden voor de school bij het kristal."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "56717554",
+    "type": "message",
+    "default": "In de herberg kan je gaan rusten van je zware "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "65694952",
+    "type": "message",
+    "default": "tocht tot nu toe. Of je kan gezellig met de "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "82490763",
+    "type": "message",
+    "default": "andere mensen van de herberg wat bijpraten."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "34509069",
+    "type": "message",
+    "default": "Hopelijk geloof je niet alles en iedereen "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "67755057",
+    "type": "message",
+    "default": "zomaar. Roddels, leugens of zelfs pesten van "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "79164204",
+    "type": "message",
+    "default": "andere inwoners durft hier wel eens voorvallen."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "40179359",
+    "type": "choices",
+    "default": [
+      "Het schip",
+      "De herberg",
+      "De school",
+      "Ik wil zelf gaan ontdekken."
+    ]
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "86792211",
+    "type": "message",
+    "default": "Het schip is van een beruchte piraat."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "80607888",
+    "type": "message",
+    "default": "Hij durft wel eens gevaarlijke wateren bezoeken."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "28059700",
+    "type": "message",
+    "default": "Plaatsen waar je eigenlijk beter niet komt."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "48423761",
+    "type": "message",
+    "default": "Hij probeert je graag te overtuigen om mee te "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "31926158",
+    "type": "message",
+    "default": "gaan op avontuur. Hopelijk laat je jezelf niet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "58433386",
+    "type": "message",
+    "default": "verleiden om in te gaan op dit voorstel."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "29368107",
+    "type": "message",
+    "default": "Beter hier blijven, waar het veilig is."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "27589095",
+    "type": "choices",
+    "default": [
+      "Het schip",
+      "De herberg",
+      "De school",
+      "Ik wil zelf gaan ontdekken."
+    ]
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "62307597",
+    "type": "message",
+    "default": "Het schip is van een beruchte piraat."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "82413136",
+    "type": "message",
+    "default": "Hij durft wel eens gevaarlijke wateren bezoeken."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "69785472",
+    "type": "message",
+    "default": "Plaatsen waar je eigenlijk beter niet komt."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "52418482",
+    "type": "message",
+    "default": "Hij probeert je graag te overtuigen om mee te "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "81757046",
+    "type": "message",
+    "default": "gaan op avontuur. Hopelijk laat je jezelf niet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "21958828",
+    "type": "message",
+    "default": "verleiden om in te gaan op dit voorstel."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "74087171",
+    "type": "message",
+    "default": "Beter hier blijven, waar het veilig is."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "10474335",
+    "type": "message",
+    "default": "In de herberg kan je gaan rusten van je zware "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "62189451",
+    "type": "message",
+    "default": "tocht tot nu toe. Of je kan gezellig met de "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "19886016",
+    "type": "message",
+    "default": "andere mensen van de herberg wat bijpraten."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "48733835",
+    "type": "message",
+    "default": "Hopelijk geloof je niet alles en iedereen "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "58122139",
+    "type": "message",
+    "default": "zomaar. Roddels, leugens of zelfs pesten van "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "54427204",
+    "type": "message",
+    "default": "andere inwoners durft hier wel eens voorvallen."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "86893798",
+    "type": "message",
+    "default": "Hier woont een wijze man! Hij kan je tips "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "36632599",
+    "type": "message",
+    "default": "geven en je verder helpen als je niet goed weet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "79991078",
+    "type": "message",
+    "default": "hoe je veilig verder kan gaan in Internautica."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "14440276",
+    "type": "message",
+    "default": "Super! Als je verder wil reizen kan je me "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "34763972",
+    "type": "message",
+    "default": "vinden voor de school bij het kristal."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "62624821",
+    "type": "message",
+    "default": "In de herberg kan je gaan rusten van je zware "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "42590369",
+    "type": "message",
+    "default": "tocht tot nu toe. Of je kan gezellig met de "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "78328513",
+    "type": "message",
+    "default": "andere mensen van de herberg wat bijpraten."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "66936803",
+    "type": "message",
+    "default": "Hopelijk geloof je niet alles en iedereen "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "46545398",
+    "type": "message",
+    "default": "zomaar. Roddels, leugens of zelfs pesten van "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "89572452",
+    "type": "message",
+    "default": "andere inwoners durft hier wel eens voorvallen."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "87792498",
+    "type": "choices",
+    "default": [
+      "Het schip",
+      "De herberg",
+      "De school",
+      "Ik wil zelf gaan ontdekken."
+    ]
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "94479400",
+    "type": "message",
+    "default": "Het schip is van een beruchte piraat."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "99278316",
+    "type": "message",
+    "default": "Hij durft wel eens gevaarlijke wateren bezoeken."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "28230762",
+    "type": "message",
+    "default": "Plaatsen waar je eigenlijk beter niet komt."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "56444524",
+    "type": "message",
+    "default": "Hij probeert je graag te overtuigen om mee te "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "87769369",
+    "type": "message",
+    "default": "gaan op avontuur. Hopelijk laat je jezelf niet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "85791540",
+    "type": "message",
+    "default": "verleiden om in te gaan op dit voorstel."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "34256152",
+    "type": "message",
+    "default": "Beter hier blijven, waar het veilig is."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "25383615",
+    "type": "message",
+    "default": "In de herberg kan je gaan rusten van je zware "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "56999842",
+    "type": "message",
+    "default": "tocht tot nu toe. Of je kan gezellig met de "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "31950603",
+    "type": "message",
+    "default": "andere mensen van de herberg wat bijpraten."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "47029682",
+    "type": "message",
+    "default": "Hopelijk geloof je niet alles en iedereen "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "32696594",
+    "type": "message",
+    "default": "zomaar. Roddels, leugens of zelfs pesten van "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "90140261",
+    "type": "message",
+    "default": "andere inwoners durft hier wel eens voorvallen."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "15188806",
+    "type": "message",
+    "default": "Hier woont een wijze man! Hij kan je tips "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "12164134",
+    "type": "message",
+    "default": "geven en je verder helpen als je niet goed weet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "71534978",
+    "type": "message",
+    "default": "hoe je veilig verder kan gaan in Internautica."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "32740683",
+    "type": "message",
+    "default": "Super! Als je verder wil reizen kan je me "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "91025905",
+    "type": "message",
+    "default": "vinden voor de school bij het kristal."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "84796655",
+    "type": "message",
+    "default": "Hier woont een wijze man! Hij kan je tips "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "59725709",
+    "type": "message",
+    "default": "geven en je verder helpen als je niet goed weet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "41795807",
+    "type": "message",
+    "default": "hoe je veilig verder kan gaan in Internautica."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "81721603",
+    "type": "choices",
+    "default": [
+      "Het schip",
+      "De herberg",
+      "De school",
+      "Ik wil zelf gaan ontdekken."
+    ]
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "97139559",
+    "type": "message",
+    "default": "Het schip is van een beruchte piraat."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "75574300",
+    "type": "message",
+    "default": "Hij durft wel eens gevaarlijke wateren bezoeken."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "55260376",
+    "type": "message",
+    "default": "Plaatsen waar je eigenlijk beter niet komt."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "52188739",
+    "type": "message",
+    "default": "Hij probeert je graag te overtuigen om mee te "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "81931426",
+    "type": "message",
+    "default": "gaan op avontuur. Hopelijk laat je jezelf niet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "92444467",
+    "type": "message",
+    "default": "verleiden om in te gaan op dit voorstel."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "84504985",
+    "type": "message",
+    "default": "Beter hier blijven, waar het veilig is."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "44098251",
+    "type": "message",
+    "default": "In de herberg kan je gaan rusten van je zware "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "18047172",
+    "type": "message",
+    "default": "tocht tot nu toe. Of je kan gezellig met de "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "22788679",
+    "type": "message",
+    "default": "andere mensen van de herberg wat bijpraten."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "81727468",
+    "type": "message",
+    "default": "Hopelijk geloof je niet alles en iedereen "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "82693199",
+    "type": "message",
+    "default": "zomaar. Roddels, leugens of zelfs pesten van "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "65561043",
+    "type": "message",
+    "default": "andere inwoners durft hier wel eens voorvallen."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "28607163",
+    "type": "message",
+    "default": "Hier woont een wijze man! Hij kan je tips "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "12465484",
+    "type": "message",
+    "default": "geven en je verder helpen als je niet goed weet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "28236135",
+    "type": "message",
+    "default": "hoe je veilig verder kan gaan in Internautica."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "20715596",
+    "type": "message",
+    "default": "Super! Als je verder wil reizen kan je me "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "36187322",
+    "type": "message",
+    "default": "vinden voor de school bij het kristal."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "35220690",
+    "type": "message",
+    "default": "Super! Als je verder wil reizen kan je me "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "73242530",
+    "type": "message",
+    "default": "vinden voor de school bij het kristal."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "31719185",
+    "type": "choices",
+    "default": [
+      "Het schip",
+      "De herberg",
+      "De school",
+      "Ik wil zelf gaan ontdekken."
+    ]
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "81330363",
+    "type": "message",
+    "default": "Het schip is van een beruchte piraat."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "31299593",
+    "type": "message",
+    "default": "Hij durft wel eens gevaarlijke wateren bezoeken."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "54303714",
+    "type": "message",
+    "default": "Plaatsen waar je eigenlijk beter niet komt."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "75039985",
+    "type": "message",
+    "default": "Hij probeert je graag te overtuigen om mee te "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "90776318",
+    "type": "message",
+    "default": "gaan op avontuur. Hopelijk laat je jezelf niet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "55126609",
+    "type": "message",
+    "default": "verleiden om in te gaan op dit voorstel."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "55450191",
+    "type": "message",
+    "default": "Beter hier blijven, waar het veilig is."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "71837297",
+    "type": "message",
+    "default": "In de herberg kan je gaan rusten van je zware "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "75845715",
+    "type": "message",
+    "default": "tocht tot nu toe. Of je kan gezellig met de "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "80514833",
+    "type": "message",
+    "default": "andere mensen van de herberg wat bijpraten."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "48564058",
+    "type": "message",
+    "default": "Hopelijk geloof je niet alles en iedereen "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "49917358",
+    "type": "message",
+    "default": "zomaar. Roddels, leugens of zelfs pesten van "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "87459050",
+    "type": "message",
+    "default": "andere inwoners durft hier wel eens voorvallen."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "31561348",
+    "type": "message",
+    "default": "Hier woont een wijze man! Hij kan je tips "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "89863431",
+    "type": "message",
+    "default": "geven en je verder helpen als je niet goed weet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "15875977",
+    "type": "message",
+    "default": "hoe je veilig verder kan gaan in Internautica."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "55956042",
+    "type": "message",
+    "default": "Super! Als je verder wil reizen kan je me "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "17842674",
+    "type": "message",
+    "default": "vinden voor de school bij het kristal."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "99727271",
+    "type": "message",
+    "default": "Hier woont een wijze man! Hij kan je tips "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "55974530",
+    "type": "message",
+    "default": "geven en je verder helpen als je niet goed weet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "27598738",
+    "type": "message",
+    "default": "hoe je veilig verder kan gaan in Internautica."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "15011103",
+    "type": "choices",
+    "default": [
+      "Het schip",
+      "De herberg",
+      "De school",
+      "Ik wil zelf gaan ontdekken."
+    ]
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "81637022",
+    "type": "message",
+    "default": "Het schip is van een beruchte piraat."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "63924850",
+    "type": "message",
+    "default": "Hij durft wel eens gevaarlijke wateren bezoeken."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "14451258",
+    "type": "message",
+    "default": "Plaatsen waar je eigenlijk beter niet komt."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "65592319",
+    "type": "message",
+    "default": "Hij probeert je graag te overtuigen om mee te "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "70501562",
+    "type": "message",
+    "default": "gaan op avontuur. Hopelijk laat je jezelf niet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "91090998",
+    "type": "message",
+    "default": "verleiden om in te gaan op dit voorstel."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "71367245",
+    "type": "message",
+    "default": "Beter hier blijven, waar het veilig is."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "43983418",
+    "type": "choices",
+    "default": [
+      "Het schip",
+      "De herberg",
+      "De school",
+      "Ik wil zelf gaan ontdekken."
+    ]
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "74023751",
+    "type": "message",
+    "default": "Het schip is van een beruchte piraat."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "72718964",
+    "type": "message",
+    "default": "Hij durft wel eens gevaarlijke wateren bezoeken."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "57175480",
+    "type": "message",
+    "default": "Plaatsen waar je eigenlijk beter niet komt."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "12634960",
+    "type": "message",
+    "default": "Hij probeert je graag te overtuigen om mee te "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "74725803",
+    "type": "message",
+    "default": "gaan op avontuur. Hopelijk laat je jezelf niet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "94496196",
+    "type": "message",
+    "default": "verleiden om in te gaan op dit voorstel."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "52790891",
+    "type": "message",
+    "default": "Beter hier blijven, waar het veilig is."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "72082016",
+    "type": "message",
+    "default": "In de herberg kan je gaan rusten van je zware "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "14052729",
+    "type": "message",
+    "default": "tocht tot nu toe. Of je kan gezellig met de "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "12249844",
+    "type": "message",
+    "default": "andere mensen van de herberg wat bijpraten."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "81892177",
+    "type": "message",
+    "default": "Hopelijk geloof je niet alles en iedereen "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "98615028",
+    "type": "message",
+    "default": "zomaar. Roddels, leugens of zelfs pesten van "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "29340647",
+    "type": "message",
+    "default": "andere inwoners durft hier wel eens voorvallen."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "84213687",
+    "type": "message",
+    "default": "Hier woont een wijze man! Hij kan je tips "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "84069992",
+    "type": "message",
+    "default": "geven en je verder helpen als je niet goed weet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "85255380",
+    "type": "message",
+    "default": "hoe je veilig verder kan gaan in Internautica."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "39360712",
+    "type": "message",
+    "default": "Super! Als je verder wil reizen kan je me "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "95184814",
+    "type": "message",
+    "default": "vinden voor de school bij het kristal."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "79568500",
+    "type": "message",
+    "default": "In de herberg kan je gaan rusten van je zware "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "49797792",
+    "type": "message",
+    "default": "tocht tot nu toe. Of je kan gezellig met de "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "28250775",
+    "type": "message",
+    "default": "andere mensen van de herberg wat bijpraten."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "58173155",
+    "type": "message",
+    "default": "Hopelijk geloof je niet alles en iedereen "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "32939656",
+    "type": "message",
+    "default": "zomaar. Roddels, leugens of zelfs pesten van "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "90773674",
+    "type": "message",
+    "default": "andere inwoners durft hier wel eens voorvallen."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "65888462",
+    "type": "choices",
+    "default": [
+      "Het schip",
+      "De herberg",
+      "De school",
+      "Ik wil zelf gaan ontdekken."
+    ]
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "30669860",
+    "type": "message",
+    "default": "Het schip is van een beruchte piraat."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "49132426",
+    "type": "message",
+    "default": "Hij durft wel eens gevaarlijke wateren bezoeken."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "28615253",
+    "type": "message",
+    "default": "Plaatsen waar je eigenlijk beter niet komt."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "50072681",
+    "type": "message",
+    "default": "Hij probeert je graag te overtuigen om mee te "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "29978912",
+    "type": "message",
+    "default": "gaan op avontuur. Hopelijk laat je jezelf niet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "90339752",
+    "type": "message",
+    "default": "verleiden om in te gaan op dit voorstel."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "18023804",
+    "type": "message",
+    "default": "Beter hier blijven, waar het veilig is."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "93871454",
+    "type": "message",
+    "default": "In de herberg kan je gaan rusten van je zware "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "96584465",
+    "type": "message",
+    "default": "tocht tot nu toe. Of je kan gezellig met de "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "90456646",
+    "type": "message",
+    "default": "andere mensen van de herberg wat bijpraten."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "18540805",
+    "type": "message",
+    "default": "Hopelijk geloof je niet alles en iedereen "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "12259966",
+    "type": "message",
+    "default": "zomaar. Roddels, leugens of zelfs pesten van "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "95751326",
+    "type": "message",
+    "default": "andere inwoners durft hier wel eens voorvallen."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "66840273",
+    "type": "message",
+    "default": "Hier woont een wijze man! Hij kan je tips "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "47199199",
+    "type": "message",
+    "default": "geven en je verder helpen als je niet goed weet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "81111326",
+    "type": "message",
+    "default": "hoe je veilig verder kan gaan in Internautica."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "11732543",
+    "type": "message",
+    "default": "Super! Als je verder wil reizen kan je me "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "21748663",
+    "type": "message",
+    "default": "vinden voor de school bij het kristal."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "49218638",
+    "type": "message",
+    "default": "Hier woont een wijze man! Hij kan je tips "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "17804507",
+    "type": "message",
+    "default": "geven en je verder helpen als je niet goed weet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "18938240",
+    "type": "message",
+    "default": "hoe je veilig verder kan gaan in Internautica."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "21081579",
+    "type": "choices",
+    "default": [
+      "Het schip",
+      "De herberg",
+      "De school",
+      "Ik wil zelf gaan ontdekken."
+    ]
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "27439204",
+    "type": "message",
+    "default": "Het schip is van een beruchte piraat."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "27552121",
+    "type": "message",
+    "default": "Hij durft wel eens gevaarlijke wateren bezoeken."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "57627851",
+    "type": "message",
+    "default": "Plaatsen waar je eigenlijk beter niet komt."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "44727465",
+    "type": "message",
+    "default": "Hij probeert je graag te overtuigen om mee te "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "73562285",
+    "type": "message",
+    "default": "gaan op avontuur. Hopelijk laat je jezelf niet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "42828270",
+    "type": "message",
+    "default": "verleiden om in te gaan op dit voorstel."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "67030365",
+    "type": "message",
+    "default": "Beter hier blijven, waar het veilig is."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "95112106",
+    "type": "message",
+    "default": "In de herberg kan je gaan rusten van je zware "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "65248024",
+    "type": "message",
+    "default": "tocht tot nu toe. Of je kan gezellig met de "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "93799650",
+    "type": "message",
+    "default": "andere mensen van de herberg wat bijpraten."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "49027996",
+    "type": "message",
+    "default": "Hopelijk geloof je niet alles en iedereen "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "84002026",
+    "type": "message",
+    "default": "zomaar. Roddels, leugens of zelfs pesten van "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "64547013",
+    "type": "message",
+    "default": "andere inwoners durft hier wel eens voorvallen."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "33952879",
+    "type": "message",
+    "default": "Hier woont een wijze man! Hij kan je tips "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "25357151",
+    "type": "message",
+    "default": "geven en je verder helpen als je niet goed weet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "98611115",
+    "type": "message",
+    "default": "hoe je veilig verder kan gaan in Internautica."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "90288421",
+    "type": "message",
+    "default": "Super! Als je verder wil reizen kan je me "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "68265682",
+    "type": "message",
+    "default": "vinden voor de school bij het kristal."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "38854124",
+    "type": "message",
+    "default": "Super! Als je verder wil reizen kan je me "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "20192530",
+    "type": "message",
+    "default": "vinden voor de school bij het kristal."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "66928845",
+    "type": "choices",
+    "default": [
+      "Het schip",
+      "De herberg",
+      "De school",
+      "Ik wil zelf gaan ontdekken."
+    ]
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "33204512",
+    "type": "message",
+    "default": "Het schip is van een beruchte piraat."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "48850589",
+    "type": "message",
+    "default": "Hij durft wel eens gevaarlijke wateren bezoeken."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "78461206",
+    "type": "message",
+    "default": "Plaatsen waar je eigenlijk beter niet komt."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "52462582",
+    "type": "message",
+    "default": "Hij probeert je graag te overtuigen om mee te "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "18127580",
+    "type": "message",
+    "default": "gaan op avontuur. Hopelijk laat je jezelf niet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "94537151",
+    "type": "message",
+    "default": "verleiden om in te gaan op dit voorstel."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "11421891",
+    "type": "message",
+    "default": "Beter hier blijven, waar het veilig is."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "23886499",
+    "type": "message",
+    "default": "In de herberg kan je gaan rusten van je zware "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "96502606",
+    "type": "message",
+    "default": "tocht tot nu toe. Of je kan gezellig met de "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "68458364",
+    "type": "message",
+    "default": "andere mensen van de herberg wat bijpraten."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "21445438",
+    "type": "message",
+    "default": "Hopelijk geloof je niet alles en iedereen "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "40690809",
+    "type": "message",
+    "default": "zomaar. Roddels, leugens of zelfs pesten van "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "44183199",
+    "type": "message",
+    "default": "andere inwoners durft hier wel eens voorvallen."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "42518986",
+    "type": "message",
+    "default": "Hier woont een wijze man! Hij kan je tips "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "71566918",
+    "type": "message",
+    "default": "geven en je verder helpen als je niet goed weet"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "32103052",
+    "type": "message",
+    "default": "hoe je veilig verder kan gaan in Internautica."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "18863647",
+    "type": "message",
+    "default": "Super! Als je verder wil reizen kan je me "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "14837297",
+    "type": "message",
+    "default": "vinden voor de school bij het kristal."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "42143897",
+    "type": "message",
+    "default": "Super! Als je verder wil reizen kan je me "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "29182901",
+    "type": "message",
+    "default": "vinden voor de school bij het kristal."
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "47747584",
+    "type": "message",
+    "default": "Ben je zeker dat je al wil vertrekken?"
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "29585195",
+    "type": "message",
+    "default": "Ga best toch eerst nog een kijkje nemen in de "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "28135471",
+    "type": "message",
+    "default": "school of de herberg. Daarna zullen we samen "
+  },
+  {
+    "map": 7,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "41299366",
+    "type": "message",
+    "default": "vertrekken."
+  },
+  {
+    "map": 7,
+    "eventId": 84,
+    "parent": "map event",
+    "key": "85197256",
+    "type": "message",
+    "default": "Yaaarrrrr! Oh nee, een mediacoach in wording!"
+  },
+  {
+    "map": 7,
+    "eventId": 84,
+    "parent": "map event",
+    "key": "70040088",
+    "type": "message",
+    "default": "Jou zal ik niet kunnen verleiden om mee op pad"
+  },
+  {
+    "map": 7,
+    "eventId": 84,
+    "parent": "map event",
+    "key": "67381751",
+    "type": "message",
+    "default": "te gaan naar geheime plaatsen in Internautica."
+  },
+  {
+    "map": 7,
+    "eventId": 85,
+    "parent": "map event",
+    "key": "63381440",
+    "type": "message",
+    "default": "Hey \\n[1], fijn jou hier te zien! "
+  },
+  {
+    "map": 7,
+    "eventId": 85,
+    "parent": "map event",
+    "key": "71689983",
+    "type": "message",
+    "default": "Ik ben vandaag de markt aan het opbouwen. "
+  },
+  {
+    "map": 7,
+    "eventId": 85,
+    "parent": "map event",
+    "key": "35425286",
+    "type": "message",
+    "default": "Als je binnenkort nog eens langskomt, kan je "
+  },
+  {
+    "map": 7,
+    "eventId": 85,
+    "parent": "map event",
+    "key": "87583230",
+    "type": "message",
+    "default": "hier alle spulletjes kopen die je maar wenst!"
+  },
+  {
+    "map": 7,
+    "eventId": 85,
+    "parent": "map event",
+    "key": "96699135",
+    "type": "message",
+    "default": "Geloof niet wat de andere zeggen, mijn spullen"
+  },
+  {
+    "map": 7,
+    "eventId": 85,
+    "parent": "map event",
+    "key": "29504948",
+    "type": "message",
+    "default": "zijn van de allerbeste kwaliteit."
+  },
+  {
+    "map": 7,
+    "eventId": 85,
+    "parent": "map event",
+    "key": "94355267",
+    "type": "message",
+    "default": "Hallo \\n[1]! Hoe kan ik je helpen?"
+  },
+  {
+    "map": 7,
+    "eventId": 85,
+    "parent": "map event",
+    "key": "13518773",
+    "type": "message",
+    "default": "Ik denk dat ik een leuke vriendin voor je heb"
+  },
+  {
+    "map": 7,
+    "eventId": 85,
+    "parent": "map event",
+    "key": "85213027",
+    "type": "message",
+    "default": "ontmoet! Het is Tina. Het meisje dat hier "
+  },
+  {
+    "map": 7,
+    "eventId": 85,
+    "parent": "map event",
+    "key": "68719643",
+    "type": "message",
+    "default": "rondloopt in haar lang kleed."
+  },
+  {
+    "map": 7,
+    "eventId": 85,
+    "parent": "map event",
+    "key": "57709764",
+    "type": "message",
+    "default": "Super! Ik spreek haar dadelijk aan!"
+  },
+  {
+    "map": 7,
+    "eventId": 85,
+    "parent": "map event",
+    "key": "70764656",
+    "type": "message",
+    "default": "Hallo \\n[1]! Hoe kan ik je helpen?"
+  },
+  {
+    "map": 7,
+    "eventId": 85,
+    "parent": "map event",
+    "key": "46908616",
+    "type": "message",
+    "default": "Ik denk dat ik een leuke vriendin voor je heb"
+  },
+  {
+    "map": 7,
+    "eventId": 85,
+    "parent": "map event",
+    "key": "37263976",
+    "type": "message",
+    "default": "ontmoet! Het is Tina. Het meisje dat hier "
+  },
+  {
+    "map": 7,
+    "eventId": 85,
+    "parent": "map event",
+    "key": "29183127",
+    "type": "message",
+    "default": "rondloopt in haar lang kleed."
+  },
+  {
+    "map": 7,
+    "eventId": 85,
+    "parent": "map event",
+    "key": "92413933",
+    "type": "message",
+    "default": "Super! Ik spreek haar dadelijk aan!"
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "67482067",
+    "type": "message",
+    "default": "Ooohh goed dat je me zag passeren! Ik heb me "
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "64450303",
+    "type": "message",
+    "default": "speciaal opgekleed zodat iedereen ziet hoe mooi"
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "80836012",
+    "type": "message",
+    "default": "ik wel ben. "
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "19832683",
+    "type": "message",
+    "default": "Ik ben er zeker van als ik iedereen toon hoe"
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "80322075",
+    "type": "message",
+    "default": "mooi ik wel ben en ik nog meer vrienden zal "
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "51845772",
+    "type": "message",
+    "default": "hebben. Wil jij mij anders helpen?"
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "21161472",
+    "type": "choices",
+    "default": [
+      "Ja, ik help je graag.",
+      "Neen. Sorry, dat doe ik liever niet."
+    ]
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "95430138",
+    "type": "message",
+    "default": "Joepiee! Bedankt! Wil jij aan alle mensen die "
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "39174290",
+    "type": "message",
+    "default": "je tegenkomt vertellen dat ik hier rondloop? "
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "86536809",
+    "type": "message",
+    "default": "Stuur ze zeker even naar me toe, dan doe ik "
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "85060773",
+    "type": "message",
+    "default": "graag een praatje met hen."
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "86328971",
+    "type": "message",
+    "default": "Heb je met 2 mensen gesproken kom dan zeker "
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "32594041",
+    "type": "message",
+    "default": "even terug naar me toe!"
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "12667096",
+    "type": "message",
+    "default": "Ooh, maar...alsjeblieft! Hoe meer vrienden ik "
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "80013809",
+    "type": "message",
+    "default": "heb, hoe gelukkiger ik ben! Waarom wil je me "
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "22427542",
+    "type": "message",
+    "default": "niet helpen?"
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "86515430",
+    "type": "message",
+    "default": "Keuze 1: Mensen die vriend met je worden gewoon om hoe je "
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "10573887",
+    "type": "message",
+    "default": "eruit ziet zijn geen echte vrienden. "
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "26146640",
+    "type": "message",
+    "default": "Ze volgen je graag omdat je er leuk uitziet of leuke dingen "
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "41473571",
+    "type": "message",
+    "default": "laat zien maar dat is niet het belangrijkste. "
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "74764519",
+    "type": "message",
+    "default": "Wees jezelf en maak echte vrienden door te zijn wie je bent."
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "25579905",
+    "type": "message",
+    "default": "Keuze 2: Ik heb nu echt geen tijd, sorry."
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "59025123",
+    "type": "message",
+    "default": "Keuze 3: Ook al draag je deze mooie jurk, jij bent echt niet "
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "83013449",
+    "type": "message",
+    "default": "knap! Dus niemand zal je vriend willen zijn. "
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "51755988",
+    "type": "choices",
+    "default": [
+      "Keuze 1",
+      "Keuze 2",
+      "Keuze 3"
+    ]
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "17555047",
+    "type": "message",
+    "default": "Proficiat! Je leerde iets bij over sociale media!"
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "13667912",
+    "type": "message",
+    "default": "+1 level op \"Kennis van Sociale media\""
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "12766557",
+    "type": "message",
+    "default": "Ooh spijtig! Ik hoop dat je me snel weer kan"
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "12401008",
+    "type": "message",
+    "default": "komen helpen!"
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "79074882",
+    "type": "message",
+    "default": "Oei, dit lijkt wel op pestgedrag. Ook in Internautica of op"
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "36683001",
+    "type": "message",
+    "default": "het internet is pesten niet ok!"
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "47814532",
+    "type": "message",
+    "default": "-1 level op \"Kennis over Cyberpesten\""
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "46826674",
+    "type": "message",
+    "default": "Dit kwetst me echt! Je hebt misschien gelijk. "
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "33425747",
+    "type": "message",
+    "default": "Misschien is dit niet de juiste manier om "
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "79468910",
+    "type": "message",
+    "default": "vrienden te maken. Maar je woorden kwetsen me"
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "16421213",
+    "type": "message",
+    "default": "erg. "
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "98500443",
+    "type": "message",
+    "default": "Ook al kennen we elkaar nog niet echt, zulke "
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "44615284",
+    "type": "message",
+    "default": "dingen hoor je echt niet te zeggen."
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "50929105",
+    "type": "message",
+    "default": "Ik zou zeker eens gaan kijken op"
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "45916453",
+    "type": "message",
+    "default": "https://www.cybersense.be/ daar ga je enkele tips vinden "
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "53284431",
+    "type": "message",
+    "default": "die je in de toekomst kunnen helpen."
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "41110620",
+    "type": "message",
+    "default": "Super bedankt! Ik heb zoveel nieuwe vrienden "
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "80660333",
+    "type": "message",
+    "default": "erbij! Toch weet ik niet of dit een goed idee "
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "50146520",
+    "type": "message",
+    "default": "was. Iedereen is precies enkel vriend met me "
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "58271857",
+    "type": "message",
+    "default": "om de foute redenen. "
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "57795942",
+    "type": "message",
+    "default": "Misschien had je me beter even gewaarschuwd "
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "63984109",
+    "type": "message",
+    "default": "hiervoor. Misschien kan je even een kijkje "
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "90819259",
+    "type": "message",
+    "default": "nemen op https://www.cybersense.be/ "
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "97712049",
+    "type": "message",
+    "default": "Hier staan enkele tips."
+  },
+  {
+    "map": 7,
+    "eventId": 91,
+    "parent": "map event",
+    "key": "23427666",
+    "type": "message",
+    "default": "-1 level op \"Kennis van Sociale media\""
+  },
+  {
+    "map": 7,
+    "eventId": 92,
+    "parent": "map event",
+    "key": "89722382",
+    "type": "message",
+    "default": "Pfff, het leven van een smit is zwaar. "
+  },
+  {
+    "map": 7,
+    "eventId": 92,
+    "parent": "map event",
+    "key": "71385756",
+    "type": "message",
+    "default": "Ik denk dat ik straks even ga uitrusten in "
+  },
+  {
+    "map": 7,
+    "eventId": 92,
+    "parent": "map event",
+    "key": "26252817",
+    "type": "message",
+    "default": "de herberg."
+  },
+  {
+    "map": 7,
+    "eventId": 92,
+    "parent": "map event",
+    "key": "89468105",
+    "type": "message",
+    "default": "Waar kan ik je met helpen?"
+  },
+  {
+    "map": 7,
+    "eventId": 92,
+    "parent": "map event",
+    "key": "16347722",
+    "type": "message",
+    "default": "Heb je Tina gezien? Ze loopt op het plein rond. "
+  },
+  {
+    "map": 7,
+    "eventId": 92,
+    "parent": "map event",
+    "key": "13508707",
+    "type": "message",
+    "default": "Ze is het meisje in het super knappe kleed. "
+  },
+  {
+    "map": 7,
+    "eventId": 92,
+    "parent": "map event",
+    "key": "57958826",
+    "type": "message",
+    "default": "Ga zeker eens met haar praten, jullie zouden "
+  },
+  {
+    "map": 7,
+    "eventId": 92,
+    "parent": "map event",
+    "key": "39446232",
+    "type": "message",
+    "default": "goede vrienden zijn!"
+  },
+  {
+    "map": 7,
+    "eventId": 92,
+    "parent": "map event",
+    "key": "36735563",
+    "type": "message",
+    "default": "Waar kan ik je met helpen?"
+  },
+  {
+    "map": 7,
+    "eventId": 92,
+    "parent": "map event",
+    "key": "88076796",
+    "type": "message",
+    "default": "Heb je Tina gezien? Ze loopt op het plein rond. "
+  },
+  {
+    "map": 7,
+    "eventId": 92,
+    "parent": "map event",
+    "key": "97926881",
+    "type": "message",
+    "default": "Ze is het meisje in het super knappe kleed. "
+  },
+  {
+    "map": 7,
+    "eventId": 92,
+    "parent": "map event",
+    "key": "70610826",
+    "type": "message",
+    "default": "Ga zeker eens met haar praten, jullie zouden "
+  },
+  {
+    "map": 7,
+    "eventId": 92,
+    "parent": "map event",
+    "key": "57106240",
+    "type": "message",
+    "default": "goede vrienden zijn!"
+  },
+  {
+    "map": 7,
+    "eventId": 93,
+    "parent": "map event",
+    "key": "27918555",
+    "type": "message",
+    "default": "Shhhhh, ik ben op een geheime missie van mijn "
+  },
+  {
+    "map": 7,
+    "eventId": 93,
+    "parent": "map event",
+    "key": "17655568",
+    "type": "message",
+    "default": "kapitein. Ik ben informatie aan het verspreiden"
+  },
+  {
+    "map": 7,
+    "eventId": 93,
+    "parent": "map event",
+    "key": "80231099",
+    "type": "message",
+    "default": "die niet helemaal juist is. "
+  },
+  {
+    "map": 7,
+    "eventId": 93,
+    "parent": "map event",
+    "key": "11133617",
+    "type": "message",
+    "default": "We hopen zo dat we verkozen worden als nieuwe "
+  },
+  {
+    "map": 7,
+    "eventId": 93,
+    "parent": "map event",
+    "key": "86153608",
+    "type": "message",
+    "default": "leider van Internautica!"
+  },
+  {
+    "map": 8,
+    "eventId": 2,
+    "parent": "map event",
+    "key": "35044611",
+    "type": "message",
+    "default": "Welkom in mijn herberg! Na een lange reis kan "
+  },
+  {
+    "map": 8,
+    "eventId": 2,
+    "parent": "map event",
+    "key": "46049361",
+    "type": "message",
+    "default": "je hier even bijslapen of gezellig bijpraten "
+  },
+  {
+    "map": 8,
+    "eventId": 2,
+    "parent": "map event",
+    "key": "26956969",
+    "type": "message",
+    "default": "met de andere gasten."
+  },
+  {
+    "map": 8,
+    "eventId": 2,
+    "parent": "map event",
+    "key": "46072310",
+    "type": "message",
+    "default": "Hmm, nu even niet. Ik moet dringend deze glazen"
+  },
+  {
+    "map": 8,
+    "eventId": 2,
+    "parent": "map event",
+    "key": "47157044",
+    "type": "message",
+    "default": "opblinken."
+  },
+  {
+    "map": 8,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "85515259",
+    "type": "message",
+    "default": "Je stoort me beter even niet. Ik ben aan het "
+  },
+  {
+    "map": 8,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "35181666",
+    "type": "message",
+    "default": "nadenken over mijn volgend avontuur."
+  },
+  {
+    "map": 8,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "96041589",
+    "type": "message",
+    "default": "Anders moet je binnenkort nog eens terugkomen?"
+  },
+  {
+    "map": 9,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "78678043",
+    "type": "message",
+    "default": "Wil je graag even slapen?"
+  },
+  {
+    "map": 9,
+    "eventId": 1,
+    "parent": "map event",
+    "key": "11151958",
+    "type": "choices",
+    "default": [
+      "Ja! Ik ben wel erg moe.",
+      "Neen, dat hoeft niet."
+    ]
+  },
+  {
+    "map": 10,
+    "eventId": 2,
+    "parent": "map event",
+    "key": "85458778",
+    "type": "message",
+    "default": "Haaa! Fijn jou hier te zien! Of je nu nieuw "
+  },
+  {
+    "map": 10,
+    "eventId": 2,
+    "parent": "map event",
+    "key": "51500367",
+    "type": "message",
+    "default": "bent in Internautica of al veel ervaring hebt,"
+  },
+  {
+    "map": 10,
+    "eventId": 2,
+    "parent": "map event",
+    "key": "20706120",
+    "type": "message",
+    "default": "hier kan je altijd iets leren! "
+  },
+  {
+    "map": 10,
+    "eventId": 2,
+    "parent": "map event",
+    "key": "55436485",
+    "type": "message",
+    "default": "Wil je graag een weetje leren?"
+  },
+  {
+    "map": 10,
+    "eventId": 2,
+    "parent": "map event",
+    "key": "75579514",
+    "type": "choices",
+    "default": [
+      "Ja! Graag zelfs!",
+      "Neen, dankje."
+    ]
+  },
+  {
+    "map": 10,
+    "eventId": 2,
+    "parent": "map event",
+    "key": "63619458",
+    "type": "message",
+    "default": "Krokodillen kunnen hun tong niet uitsteken."
+  },
+  {
+    "map": 10,
+    "eventId": 2,
+    "parent": "map event",
+    "key": "35959978",
+    "type": "message",
+    "default": "Ik weet het... niet het weetje dat je zou "
+  },
+  {
+    "map": 10,
+    "eventId": 2,
+    "parent": "map event",
+    "key": "22496700",
+    "type": "message",
+    "default": "verwachten in Internautica."
+  },
+  {
+    "map": 10,
+    "eventId": 2,
+    "parent": "map event",
+    "key": "26775758",
+    "type": "message",
+    "default": "Maar ik was niet voorbereid op jouw komst. "
+  },
+  {
+    "map": 10,
+    "eventId": 2,
+    "parent": "map event",
+    "key": "71812756",
+    "type": "message",
+    "default": "Normaal krijg ik bezoek van mensen die nog niet"
+  },
+  {
+    "map": 10,
+    "eventId": 2,
+    "parent": "map event",
+    "key": "61794690",
+    "type": "message",
+    "default": "zoveel avonturen hebben meegemaakt als jij!"
+  },
+  {
+    "map": 11,
+    "eventId": 2,
+    "parent": "map event",
+    "key": "64936921",
+    "type": "message",
+    "default": "Nu even niet. Ik moet dringend dit hout kappen "
+  },
+  {
+    "map": 11,
+    "eventId": 2,
+    "parent": "map event",
+    "key": "39710943",
+    "type": "message",
+    "default": "voor het gaat regenen"
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "48992576",
+    "type": "message",
+    "default": "Ben je zeker dat je de wereld van Internautica wil "
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "93517833",
+    "type": "message",
+    "default": "verkennen?"
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "77124268",
+    "type": "choices",
+    "default": [
+      "Ja",
+      "Neen, nu nog niet"
+    ]
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "17710492",
+    "type": "message",
+    "default": "Hey! Je gaat toch niet de wildernis in?"
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "76685448",
+    "type": "message",
+    "default": "Jawel, ik ben er echt helemaal klaar voor!"
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "63829752",
+    "type": "message",
+    "default": "Hopelijk kom je snel terug! Laat me je nog "
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "20204842",
+    "type": "message",
+    "default": "enkele tips meegeven voor je vertrekt."
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "71443665",
+    "type": "message",
+    "default": "Tip 1: Niet alles wat je leest of hoort in "
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "39689016",
+    "type": "message",
+    "default": "Internautica is juist of waar. Zorg dat je dus "
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "69187590",
+    "type": "message",
+    "default": "altijd alles even nakijkt voor je het zomaar "
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "29980255",
+    "type": "message",
+    "default": "gebruikt of gelooft."
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "15360369",
+    "type": "message",
+    "default": "Tip 2: In Internautica  lopen er wel eens "
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "12936585",
+    "type": "message",
+    "default": "mensen rond die zich anders voordoen dan ze "
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "88624041",
+    "type": "message",
+    "default": "echt zijn. "
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "30514102",
+    "type": "message",
+    "default": "Pas dus goed op wie je vertrouwt!"
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "79938684",
+    "type": "message",
+    "default": "Tip 3: Maak zeker veel vrienden en vriendinnen!"
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "85385212",
+    "type": "message",
+    "default": "Maar wees slim met welke informatie je deelt "
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "93740228",
+    "type": "message",
+    "default": "met anderen. Niet iedereen hoort alles van je "
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "31211338",
+    "type": "message",
+    "default": "te weten!"
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "87859834",
+    "type": "message",
+    "default": "Tip 4: Er zijn veel hulpvaardige mensen in "
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "32536541",
+    "type": "message",
+    "default": "Internautica. Heb je vragen, voel je je niet "
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "13074953",
+    "type": "message",
+    "default": "veilig of vertrouw je iets niet?"
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "75512537",
+    "type": "message",
+    "default": "Zeg het zeker tegen een volwassenen."
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "24782290",
+    "type": "message",
+    "default": "Tip 5: Doe niets in Internautica was je hier"
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "22544539",
+    "type": "message",
+    "default": "thuis ook niet zou doen."
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "67604521",
+    "type": "message",
+    "default": "Veel plezier in Internautica! "
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "73366909",
+    "type": "message",
+    "default": "Kom snel terug met verhalen over je avonturen!"
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "62202753",
+    "type": "message",
+    "default": "Hey! Je gaat toch niet de wildernis in?"
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "19463566",
+    "type": "message",
+    "default": "Jawel, ik ben er echt helemaal klaar voor!"
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "35755226",
+    "type": "message",
+    "default": "Hopelijk kom je snel terug! Laat me je nog "
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "13681450",
+    "type": "message",
+    "default": "enkele tips meegeven voor je vertrekt."
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "34515772",
+    "type": "message",
+    "default": "Tip 1: Niet alles wat je leest of hoort in "
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "43678599",
+    "type": "message",
+    "default": "Internautica is juist of waar. Zorg dat je dus "
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "27506522",
+    "type": "message",
+    "default": "altijd alles even nakijkt voor je het zomaar "
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "12705452",
+    "type": "message",
+    "default": "gebruikt of gelooft."
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "97084311",
+    "type": "message",
+    "default": "Tip 2: In Internautica  lopen er wel eens "
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "84237719",
+    "type": "message",
+    "default": "mensen rond die zich anders voordoen dan ze "
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "18205104",
+    "type": "message",
+    "default": "echt zijn. "
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "78355657",
+    "type": "message",
+    "default": "Pas dus goed op wie je vertrouwt!"
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "32118392",
+    "type": "message",
+    "default": "Tip 3: Maak zeker veel vrienden en vriendinnen!"
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "96264290",
+    "type": "message",
+    "default": "Maar wees slim met welke informatie je deelt "
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "44484385",
+    "type": "message",
+    "default": "met anderen. Niet iedereen hoort alles van je "
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "24846442",
+    "type": "message",
+    "default": "te weten!"
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "42584238",
+    "type": "message",
+    "default": "Tip 4: Er zijn veel hulpvaardige mensen in "
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "76106297",
+    "type": "message",
+    "default": "Internautica. Heb je vragen, voel je je niet "
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "90638597",
+    "type": "message",
+    "default": "veilig of vertrouw je iets niet?"
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "52217885",
+    "type": "message",
+    "default": "Zeg het zeker tegen een volwassenen."
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "19913162",
+    "type": "message",
+    "default": "Tip 5: Doe niets in Internautica was je hier"
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "64613405",
+    "type": "message",
+    "default": "thuis ook niet zou doen."
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "67954727",
+    "type": "message",
+    "default": "Veel plezier in Internautica! "
+  },
+  {
+    "map": 11,
+    "eventId": 3,
+    "parent": "map event",
+    "key": "37290144",
+    "type": "message",
+    "default": "Kom snel terug met verhalen over je avonturen!"
+  },
+  {
+    "map": 11,
+    "eventId": 4,
+    "parent": "map event",
+    "key": "48777082",
+    "type": "message",
+    "default": "Opgelet! Voorbij deze brug kom je in de wildernis! "
+  },
+  {
+    "map": 11,
+    "eventId": 4,
+    "parent": "map event",
+    "key": "92884956",
+    "type": "message",
+    "default": "Niet iedereen heeft de beste bedoelingen daar!"
+  },
+  {
+    "map": 11,
+    "eventId": 4,
+    "parent": "map event",
+    "key": "11657868",
+    "type": "message",
+    "default": "Kijk dus goed uit met wie je omgaat en wat je allemaal deelt."
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "85187872",
+    "type": "message",
+    "default": "Ben je zeker dat je de wereld van Internautica wil "
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "95219284",
+    "type": "message",
+    "default": "verkennen?"
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "43011356",
+    "type": "choices",
+    "default": [
+      "Ja",
+      "Neen, nu nog niet"
+    ]
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "64410927",
+    "type": "message",
+    "default": "Hey! Je gaat toch niet de wildernis in?"
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "15233302",
+    "type": "message",
+    "default": "Jawel, ik ben er echt helemaal klaar voor!"
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "90949793",
+    "type": "message",
+    "default": "Hopelijk kom je snel terug! Laat me je nog "
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "68247883",
+    "type": "message",
+    "default": "enkele tips meegeven voor je vertrekt."
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "60779678",
+    "type": "message",
+    "default": "Tip 1: Niet alles wat je leest of hoort in "
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "34718873",
+    "type": "message",
+    "default": "Internautica is juist of waar. Zorg dat je dus "
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "63329388",
+    "type": "message",
+    "default": "altijd alles even nakijkt voor je het zomaar "
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "49688245",
+    "type": "message",
+    "default": "gebruikt of gelooft."
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "31070389",
+    "type": "message",
+    "default": "Tip 2: In Internautica  lopen er wel eens "
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "22531891",
+    "type": "message",
+    "default": "mensen rond die zich anders voordoen dan ze "
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "76663672",
+    "type": "message",
+    "default": "echt zijn. "
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "26247188",
+    "type": "message",
+    "default": "Pas dus goed op wie je vertrouwt!"
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "46902103",
+    "type": "message",
+    "default": "Tip 3: Maak zeker veel vrienden en vriendinnen!"
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "35043465",
+    "type": "message",
+    "default": "Maar wees slim met welke informatie je deelt "
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "81534577",
+    "type": "message",
+    "default": "met anderen. Niet iedereen hoort alles van je "
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "15672299",
+    "type": "message",
+    "default": "te weten!"
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "16055240",
+    "type": "message",
+    "default": "Tip 4: Er zijn veel hulpvaardige mensen in "
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "32897407",
+    "type": "message",
+    "default": "Internautica. Heb je vragen, voel je je niet "
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "31251768",
+    "type": "message",
+    "default": "veilig of vertrouw je iets niet?"
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "27314992",
+    "type": "message",
+    "default": "Zeg het zeker tegen een volwassenen."
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "66744012",
+    "type": "message",
+    "default": "Tip 5: Doe niets in Internautica was je hier"
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "22598225",
+    "type": "message",
+    "default": "thuis ook niet zou doen."
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "11391481",
+    "type": "message",
+    "default": "Veel plezier in Internautica! "
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "28778536",
+    "type": "message",
+    "default": "Kom snel terug met verhalen over je avonturen!"
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "92005454",
+    "type": "message",
+    "default": "Hey! Je gaat toch niet de wildernis in?"
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "12552483",
+    "type": "message",
+    "default": "Jawel, ik ben er echt helemaal klaar voor!"
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "27252865",
+    "type": "message",
+    "default": "Hopelijk kom je snel terug! Laat me je nog "
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "89796375",
+    "type": "message",
+    "default": "enkele tips meegeven voor je vertrekt."
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "71261160",
+    "type": "message",
+    "default": "Tip 1: Niet alles wat je leest of hoort in "
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "95534949",
+    "type": "message",
+    "default": "Internautica is juist of waar. Zorg dat je dus "
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "28436157",
+    "type": "message",
+    "default": "altijd alles even nakijkt voor je het zomaar "
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "92555176",
+    "type": "message",
+    "default": "gebruikt of gelooft."
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "12429712",
+    "type": "message",
+    "default": "Tip 2: In Internautica  lopen er wel eens "
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "50999401",
+    "type": "message",
+    "default": "mensen rond die zich anders voordoen dan ze "
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "55724807",
+    "type": "message",
+    "default": "echt zijn. "
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "87578842",
+    "type": "message",
+    "default": "Pas dus goed op wie je vertrouwt!"
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "51401688",
+    "type": "message",
+    "default": "Tip 3: Maak zeker veel vrienden en vriendinnen!"
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "24202639",
+    "type": "message",
+    "default": "Maar wees slim met welke informatie je deelt "
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "79856294",
+    "type": "message",
+    "default": "met anderen. Niet iedereen hoort alles van je "
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "33662583",
+    "type": "message",
+    "default": "te weten!"
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "28405851",
+    "type": "message",
+    "default": "Tip 4: Er zijn veel hulpvaardige mensen in "
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "76898223",
+    "type": "message",
+    "default": "Internautica. Heb je vragen, voel je je niet "
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "57962328",
+    "type": "message",
+    "default": "veilig of vertrouw je iets niet?"
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "62907137",
+    "type": "message",
+    "default": "Zeg het zeker tegen een volwassenen."
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "16514305",
+    "type": "message",
+    "default": "Tip 5: Doe niets in Internautica was je hier"
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "90219380",
+    "type": "message",
+    "default": "thuis ook niet zou doen."
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "72580778",
+    "type": "message",
+    "default": "Veel plezier in Internautica! "
+  },
+  {
+    "map": 11,
+    "eventId": 5,
+    "parent": "map event",
+    "key": "35631456",
+    "type": "message",
+    "default": "Kom snel terug met verhalen over je avonturen!"
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "11718129",
+    "type": "message",
+    "default": "Ben je zeker dat je de wereld van Internautica wil "
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "33447102",
+    "type": "message",
+    "default": "verkennen?"
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "40281936",
+    "type": "choices",
+    "default": [
+      "Ja",
+      "Neen, nu nog niet"
+    ]
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "65532017",
+    "type": "message",
+    "default": "Hey! Je gaat toch niet de wildernis in?"
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "91516814",
+    "type": "message",
+    "default": "Jawel, ik ben er echt helemaal klaar voor!"
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "31771215",
+    "type": "message",
+    "default": "Hopelijk kom je snel terug! Laat me je nog "
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "84859416",
+    "type": "message",
+    "default": "enkele tips meegeven voor je vertrekt."
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "82441031",
+    "type": "message",
+    "default": "Tip 1: Niet alles wat je leest of hoort in "
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "25582566",
+    "type": "message",
+    "default": "Internautica is juist of waar. Zorg dat je dus "
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "65750213",
+    "type": "message",
+    "default": "altijd alles even nakijkt voor je het zomaar "
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "23965571",
+    "type": "message",
+    "default": "gebruikt of gelooft."
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "82683014",
+    "type": "message",
+    "default": "Tip 2: In Internautica  lopen er wel eens "
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "94462764",
+    "type": "message",
+    "default": "mensen rond die zich anders voordoen dan ze "
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "42514632",
+    "type": "message",
+    "default": "echt zijn. "
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "17406166",
+    "type": "message",
+    "default": "Pas dus goed op wie je vertrouwt!"
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "98514885",
+    "type": "message",
+    "default": "Tip 3: Maak zeker veel vrienden en vriendinnen!"
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "21653172",
+    "type": "message",
+    "default": "Maar wees slim met welke informatie je deelt "
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "37497401",
+    "type": "message",
+    "default": "met anderen. Niet iedereen hoort alles van je "
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "41246364",
+    "type": "message",
+    "default": "te weten!"
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "89056172",
+    "type": "message",
+    "default": "Tip 4: Er zijn veel hulpvaardige mensen in "
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "92021887",
+    "type": "message",
+    "default": "Internautica. Heb je vragen, voel je je niet "
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "20444855",
+    "type": "message",
+    "default": "veilig of vertrouw je iets niet?"
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "84164261",
+    "type": "message",
+    "default": "Zeg het zeker tegen een volwassenen."
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "93288366",
+    "type": "message",
+    "default": "Tip 5: Doe niets in Internautica wat je "
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "97713666",
+    "type": "message",
+    "default": "thuis ook niet zou doen."
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "66294298",
+    "type": "message",
+    "default": "Veel plezier in Internautica! "
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "45064748",
+    "type": "message",
+    "default": "Kom snel terug met verhalen over je avonturen!"
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "42457637",
+    "type": "message",
+    "default": "Hey! Je gaat toch niet de wildernis in?"
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "16075017",
+    "type": "message",
+    "default": "Jawel, ik ben er echt helemaal klaar voor!"
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "50602273",
+    "type": "message",
+    "default": "Hopelijk kom je snel terug! Laat me je nog "
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "30503214",
+    "type": "message",
+    "default": "enkele tips meegeven voor je vertrekt."
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "17705613",
+    "type": "message",
+    "default": "Tip 1: Niet alles wat je leest of hoort in "
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "93963279",
+    "type": "message",
+    "default": "Internautica is juist of waar. Zorg dat je dus "
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "39754224",
+    "type": "message",
+    "default": "altijd alles even nakijkt voor je het zomaar "
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "15091762",
+    "type": "message",
+    "default": "gebruikt of gelooft."
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "70915335",
+    "type": "message",
+    "default": "Tip 2: In Internautica  lopen er wel eens "
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "82000682",
+    "type": "message",
+    "default": "mensen rond die zich anders voordoen dan ze "
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "30149701",
+    "type": "message",
+    "default": "echt zijn. "
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "88113910",
+    "type": "message",
+    "default": "Pas dus goed op wie je vertrouwt!"
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "80292153",
+    "type": "message",
+    "default": "Tip 3: Maak zeker veel vrienden en vriendinnen!"
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "77039882",
+    "type": "message",
+    "default": "Maar wees slim met welke informatie je deelt "
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "11342407",
+    "type": "message",
+    "default": "met anderen. Niet iedereen hoort alles van je "
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "15318012",
+    "type": "message",
+    "default": "te weten!"
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "87791400",
+    "type": "message",
+    "default": "Tip 4: Er zijn veel hulpvaardige mensen in "
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "41615544",
+    "type": "message",
+    "default": "Internautica. Heb je vragen, voel je je niet "
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "66716115",
+    "type": "message",
+    "default": "veilig of vertrouw je iets niet?"
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "27151640",
+    "type": "message",
+    "default": "Zeg het zeker tegen een volwassenen."
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "20649149",
+    "type": "message",
+    "default": "Tip 5: Doe niets in Internautica wat je "
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "50674250",
+    "type": "message",
+    "default": "thuis ook niet zou doen."
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "34248364",
+    "type": "message",
+    "default": "Veel plezier in Internautica! "
+  },
+  {
+    "map": 11,
+    "eventId": 6,
+    "parent": "map event",
+    "key": "71128452",
+    "type": "message",
+    "default": "Kom snel terug met verhalen over je avonturen!"
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "27084267",
+    "type": "message",
+    "default": "Ben je zeker dat je de wereld van Internautica wil "
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "73349685",
+    "type": "message",
+    "default": "verkennen?"
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "84357274",
+    "type": "choices",
+    "default": [
+      "Ja",
+      "Neen, nu nog niet"
+    ]
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "83499410",
+    "type": "message",
+    "default": "Hey! Je gaat toch niet de wildernis in?"
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "11125047",
+    "type": "message",
+    "default": "Jawel, ik ben er echt helemaal klaar voor!"
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "34075093",
+    "type": "message",
+    "default": "Hopelijk kom je snel terug! Laat me je nog "
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "46506291",
+    "type": "message",
+    "default": "enkele tips meegeven voor je vertrekt."
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "21896506",
+    "type": "message",
+    "default": "Tip 1: Niet alles wat je leest of hoort in "
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "58984884",
+    "type": "message",
+    "default": "Internautica is juist of waar. Zorg dat je dus "
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "37455830",
+    "type": "message",
+    "default": "altijd alles even nakijkt voor je het zomaar "
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "47372491",
+    "type": "message",
+    "default": "gebruikt of gelooft."
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "86035419",
+    "type": "message",
+    "default": "Tip 2: In Internautica  lopen er wel eens "
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "39680633",
+    "type": "message",
+    "default": "mensen rond die zich anders voordoen dan ze "
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "88862979",
+    "type": "message",
+    "default": "echt zijn. "
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "73055064",
+    "type": "message",
+    "default": "Pas dus goed op wie je vertrouwt!"
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "85195978",
+    "type": "message",
+    "default": "Tip 3: Maak zeker veel vrienden en vriendinnen!"
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "32970104",
+    "type": "message",
+    "default": "Maar wees slim met welke informatie je deelt "
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "62619522",
+    "type": "message",
+    "default": "met anderen. Niet iedereen hoort alles van je "
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "97329326",
+    "type": "message",
+    "default": "te weten!"
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "71941938",
+    "type": "message",
+    "default": "Tip 4: Er zijn veel hulpvaardige mensen in "
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "14655241",
+    "type": "message",
+    "default": "Internautica. Heb je vragen, voel je je niet "
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "39360467",
+    "type": "message",
+    "default": "veilig of vertrouw je iets niet?"
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "85885975",
+    "type": "message",
+    "default": "Zeg het zeker tegen een volwassene."
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "42552613",
+    "type": "message",
+    "default": "Tip 5: Doe niets in Internautica wat je hier"
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "45144617",
+    "type": "message",
+    "default": "thuis ook niet zou doen."
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "34025601",
+    "type": "message",
+    "default": "Veel plezier in Internautica! "
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "53001973",
+    "type": "message",
+    "default": "Kom snel terug met verhalen over je avonturen!"
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "64208558",
+    "type": "message",
+    "default": "Hey! Je gaat toch niet de wildernis in?"
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "74946754",
+    "type": "message",
+    "default": "Jawel, ik ben er echt helemaal klaar voor!"
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "10806254",
+    "type": "message",
+    "default": "Hopelijk kom je snel terug! Laat me je nog "
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "97221468",
+    "type": "message",
+    "default": "enkele tips meegeven voor je vertrekt."
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "24183768",
+    "type": "message",
+    "default": "Tip 1: Niet alles wat je leest of hoort in "
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "61052554",
+    "type": "message",
+    "default": "Internautica is juist of waar. Zorg dat je dus "
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "33380843",
+    "type": "message",
+    "default": "altijd alles even nakijkt voor je het zomaar "
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "87405387",
+    "type": "message",
+    "default": "gebruikt of gelooft."
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "27843910",
+    "type": "message",
+    "default": "Tip 2: In Internautica  lopen er wel eens "
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "41245594",
+    "type": "message",
+    "default": "mensen rond die zich anders voordoen dan ze "
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "31770968",
+    "type": "message",
+    "default": "echt zijn. "
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "58678359",
+    "type": "message",
+    "default": "Pas dus goed op wie je vertrouwt!"
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "61401177",
+    "type": "message",
+    "default": "Tip 3: Maak zeker veel vrienden en vriendinnen!"
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "61534482",
+    "type": "message",
+    "default": "Maar wees slim met welke informatie je deelt "
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "62975190",
+    "type": "message",
+    "default": "met anderen. Niet iedereen hoort alles van je "
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "29630135",
+    "type": "message",
+    "default": "te weten!"
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "23859267",
+    "type": "message",
+    "default": "Tip 4: Er zijn veel hulpvaardige mensen in "
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "24229272",
+    "type": "message",
+    "default": "Internautica. Heb je vragen, voel je je niet "
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "52539013",
+    "type": "message",
+    "default": "veilig of vertrouw je iets niet?"
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "28277949",
+    "type": "message",
+    "default": "Zeg het zeker tegen een volwassenen."
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "41425117",
+    "type": "message",
+    "default": "Tip 5: Doe niets in Internautica was je hier"
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "59754317",
+    "type": "message",
+    "default": "thuis ook niet zou doen."
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "14877680",
+    "type": "message",
+    "default": "Veel plezier in Internautica! "
+  },
+  {
+    "map": 11,
+    "eventId": 8,
+    "parent": "map event",
+    "key": "15411424",
+    "type": "message",
+    "default": "Kom snel terug met verhalen over je avonturen!"
+  },
+  {
+    "map": 13,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "72224695",
+    "type": "message",
+    "default": "Klaar voor de volgende plaats te verkennen?"
+  },
+  {
+    "map": 13,
+    "eventId": 17,
+    "parent": "map event",
+    "key": "94480173",
+    "type": "choices",
+    "default": [
+      "Ja! Laten we gaan.",
+      "Neen, ik wil nog even blijven."
+    ]
+  },
+  {
+    "skillId": 1,
+    "parent": "skill",
+    "key": "98244434",
+    "default": "Wat weet jij al over Cyberpesten? Hoe kun je dit voorkomen? En wat te doen wanneer er toch iemand online pest?"
+  },
+  {
+    "skillId": 2,
+    "parent": "skill",
+    "key": "53556440",
+    "default": "Wat weet jij al over sexting? Hoe kun je dit veilig doen? En wat te doen wanneer er toch iemand hier misbruik van maakt?"
   },
   {
     "skillId": 3,
     "parent": "skill",
-    "key": "82272385",
-    "default": "Below are spaces for when you would like to display\nthings above skills when you open the menu."
+    "key": "99392914",
+    "default": "Wat weet jij al over rechten? Welke foto's of bestanden mag je zomaar gebruiken en delen? Mogen anderen dit ook van jou?"
   },
   {
-    "skillId": 12,
+    "skillId": 4,
     "parent": "skill",
-    "key": "81941878",
-    "default": "Performs a series of attacks on an enemy."
+    "key": "40404950",
+    "default": "Wat weet jij al over privacy? Welke gegevens deel je en welke niet? Wie weet wat van je?"
   },
   {
-    "skillId": 13,
+    "skillId": 5,
     "parent": "skill",
-    "key": "74952860",
-    "default": "Performs a double attack on a random enemy."
+    "key": "84307794",
+    "default": "Wat weet jij al over reclame? Welk nieuws is echt en welke boodschappen willen jou verleiden om iets te doen of kopen?"
   },
   {
-    "skillId": 14,
+    "skillId": 6,
     "parent": "skill",
-    "key": "68986967",
-    "default": "Performs a triple attack on a random enemy."
-  },
-  {
-    "skillId": 15,
-    "parent": "skill",
-    "key": "85649739",
-    "default": "The user flees from battle."
-  },
-  {
-    "skillId": 16,
-    "parent": "skill",
-    "key": "24451627",
-    "default": "Waits to see what happens."
-  },
-  {
-    "skillId": 17,
-    "parent": "skill",
-    "key": "91049061",
-    "default": "Absorbs HP from an enemy."
-  },
-  {
-    "skillId": 18,
-    "parent": "skill",
-    "key": "43871693",
-    "default": "Restores the user’s HP."
-  },
-  {
-    "skillId": 19,
-    "parent": "skill",
-    "key": "75917767",
-    "default": "Stabs an enemy with paralyzing needles."
-  },
-  {
-    "skillId": 20,
-    "parent": "skill",
-    "key": "22787163",
-    "default": "Inflicts damage and causes an enemy to lose balance."
-  },
-  {
-    "skillId": 21,
-    "parent": "skill",
-    "key": "73536973",
-    "default": "Inflicts Thunder-type damage and Paralysis state."
-  },
-  {
-    "skillId": 22,
-    "parent": "skill",
-    "key": "40684983",
-    "default": "Covers an enemy in slime and lowers their Agility."
-  },
-  {
-    "skillId": 23,
-    "parent": "skill",
-    "key": "58551785",
-    "default": "Sprays an enemy with venom and inflicts Poison state."
-  },
-  {
-    "skillId": 24,
-    "parent": "skill",
-    "key": "85612223",
-    "default": "Rouses the user’s fighting spirit and fortifies\ntheir abilities."
-  },
-  {
-    "skillId": 25,
-    "parent": "skill",
-    "key": "50097921",
-    "default": "Absorbs MP from an enemy."
-  },
-  {
-    "skillId": 26,
-    "parent": "skill",
-    "key": "58289473",
-    "default": "Glares at an enemy and paralyzes them."
-  },
-  {
-    "skillId": 27,
-    "parent": "skill",
-    "key": "56108883",
-    "default": "Blinds an enemy."
-  },
-  {
-    "skillId": 28,
-    "parent": "skill",
-    "key": "63210731",
-    "default": "Blinds all enemies."
-  },
-  {
-    "skillId": 29,
-    "parent": "skill",
-    "key": "78864716",
-    "default": "Blinds all enemies."
-  },
-  {
-    "skillId": 30,
-    "parent": "skill",
-    "key": "35862751",
-    "default": "Poisons all enemies."
-  },
-  {
-    "skillId": 31,
-    "parent": "skill",
-    "key": "64712816",
-    "default": "Puts all enemies to sleep."
-  },
-  {
-    "skillId": 32,
-    "parent": "skill",
-    "key": "13450284",
-    "default": "Charms all enemies."
-  },
-  {
-    "skillId": 33,
-    "parent": "skill",
-    "key": "72587278",
-    "default": "Seals all enemies’ magic."
-  },
-  {
-    "skillId": 34,
-    "parent": "skill",
-    "key": "23002497",
-    "default": "Confuses all enemies."
-  },
-  {
-    "skillId": 35,
-    "parent": "skill",
-    "key": "25707849",
-    "default": "Inflicts Earth-type damage on all enemies."
-  },
-  {
-    "skillId": 36,
-    "parent": "skill",
-    "key": "69787261",
-    "default": "Inflicts Wind-type damage on all enemies."
-  },
-  {
-    "skillId": 37,
-    "parent": "skill",
-    "key": "40049107",
-    "default": "Inflicts Fire-type damage on all enemies."
-  },
-  {
-    "skillId": 38,
-    "parent": "skill",
-    "key": "44895889",
-    "default": "Inflicts Ice-type damage on all enemies."
-  },
-  {
-    "skillId": 39,
-    "parent": "skill",
-    "key": "50774386",
-    "default": "Inflicts Earth-type damage on all enemies."
-  },
-  {
-    "skillId": 40,
-    "parent": "skill",
-    "key": "23740251",
-    "default": "Inflicts Water-type damage on all enemies."
-  },
-  {
-    "skillId": 41,
-    "parent": "skill",
-    "key": "65370254",
-    "default": "Inflicts damage on an enemy."
-  },
-  {
-    "skillId": 52,
-    "parent": "skill",
-    "key": "99443507",
-    "default": "Restores an ally’s HP."
-  },
-  {
-    "skillId": 53,
-    "parent": "skill",
-    "key": "35667611",
-    "default": "Restores an ally’s HP."
-  },
-  {
-    "skillId": 54,
-    "parent": "skill",
-    "key": "91955769",
-    "default": "Restores an ally’s HP."
-  },
-  {
-    "skillId": 56,
-    "parent": "skill",
-    "key": "81820088",
-    "default": "Restores all allies’ HP."
-  },
-  {
-    "skillId": 57,
-    "parent": "skill",
-    "key": "88180126",
-    "default": "Restores all allies’ HP."
-  },
-  {
-    "skillId": 58,
-    "parent": "skill",
-    "key": "69830467",
-    "default": "Restores all allies’ HP."
-  },
-  {
-    "skillId": 60,
-    "parent": "skill",
-    "key": "10287687",
-    "default": "Cures an ally’s Poison, Paralysis, or Sleep state."
-  },
-  {
-    "skillId": 61,
-    "parent": "skill",
-    "key": "41591604",
-    "default": "Cures an ally’s status ailments other than Dead."
-  },
-  {
-    "skillId": 62,
-    "parent": "skill",
-    "key": "13367774",
-    "default": "Cures all allies’ status ailments other than Dead."
-  },
-  {
-    "skillId": 64,
-    "parent": "skill",
-    "key": "73615269",
-    "default": "Raises an ally from the dead."
-  },
-  {
-    "skillId": 65,
-    "parent": "skill",
-    "key": "82400132",
-    "default": "Raises an ally from the dead and greatly restores\ntheir HP."
-  },
-  {
-    "skillId": 71,
-    "parent": "skill",
-    "key": "62006004",
-    "default": "Poisons all enemies."
-  },
-  {
-    "skillId": 72,
-    "parent": "skill",
-    "key": "97523984",
-    "default": "Blinds all enemies."
-  },
-  {
-    "skillId": 73,
-    "parent": "skill",
-    "key": "46643395",
-    "default": "Confuses all enemies."
-  },
-  {
-    "skillId": 74,
-    "parent": "skill",
-    "key": "53997743",
-    "default": "Seals all enemies’ magic."
-  },
-  {
-    "skillId": 75,
-    "parent": "skill",
-    "key": "18820755",
-    "default": "Puts all enemies to sleep."
-  },
-  {
-    "skillId": 76,
-    "parent": "skill",
-    "key": "74415318",
-    "default": "Paralyzes all enemies."
-  },
-  {
-    "skillId": 81,
-    "parent": "skill",
-    "key": "26947501",
-    "default": "Increases an ally’s Attack.\nUsable up to 2 times in a row."
-  },
-  {
-    "skillId": 82,
-    "parent": "skill",
-    "key": "36734690",
-    "default": "Decreases all enemies’ Attack.\nUsable up to 2 times in a row."
-  },
-  {
-    "skillId": 83,
-    "parent": "skill",
-    "key": "86146150",
-    "default": "Increases an ally’s Defense.\nUsable up to 2 times in a row."
-  },
-  {
-    "skillId": 84,
-    "parent": "skill",
-    "key": "47910674",
-    "default": "Decreases all enemies’ Defense.\nUsable up to 2 times in a row."
-  },
-  {
-    "skillId": 85,
-    "parent": "skill",
-    "key": "74506204",
-    "default": "Increases an ally’s M.Attack.\nUsable up to 2 times in a row."
-  },
-  {
-    "skillId": 86,
-    "parent": "skill",
-    "key": "59450250",
-    "default": "Decreases all enemies’ M.Attack.\nUsable up to 2 times in a row."
-  },
-  {
-    "skillId": 87,
-    "parent": "skill",
-    "key": "56543479",
-    "default": "Increases an ally’s M.Defense.\nUsable up to 2 times in a row."
-  },
-  {
-    "skillId": 88,
-    "parent": "skill",
-    "key": "76339383",
-    "default": "Decreases all enemies’ M.Defense.\nUsable up to 2 times in a row."
-  },
-  {
-    "skillId": 89,
-    "parent": "skill",
-    "key": "98426495",
-    "default": "Increases an ally’s Agility.\nUsable up to 2 times in a row."
-  },
-  {
-    "skillId": 90,
-    "parent": "skill",
-    "key": "35406399",
-    "default": "Decreases all enemies’ Agility.\nUsable up to 2 times in a row."
-  },
-  {
-    "skillId": 91,
-    "parent": "skill",
-    "key": "67606340",
-    "default": "Absorbs HP from an enemy."
-  },
-  {
-    "skillId": 92,
-    "parent": "skill",
-    "key": "28823966",
-    "default": "Absorbs MP from an enemy."
-  },
-  {
-    "skillId": 99,
-    "parent": "skill",
-    "key": "90330244",
-    "default": "Inflicts Fire-type damage on an enemy."
-  },
-  {
-    "skillId": 100,
-    "parent": "skill",
-    "key": "42969922",
-    "default": "Inflicts Fire-type damage on an enemy."
-  },
-  {
-    "skillId": 101,
-    "parent": "skill",
-    "key": "78979157",
-    "default": "Inflicts Fire-type damage on an enemy."
-  },
-  {
-    "skillId": 103,
-    "parent": "skill",
-    "key": "66509672",
-    "default": "Inflicts Fire-type damage on all enemies."
-  },
-  {
-    "skillId": 104,
-    "parent": "skill",
-    "key": "59878089",
-    "default": "Inflicts Fire-type damage on all enemies."
-  },
-  {
-    "skillId": 105,
-    "parent": "skill",
-    "key": "91198586",
-    "default": "Inflicts Fire-type damage on all enemies."
-  },
-  {
-    "skillId": 107,
-    "parent": "skill",
-    "key": "75688670",
-    "default": "Inflicts Ice-type damage on an enemy."
-  },
-  {
-    "skillId": 108,
-    "parent": "skill",
-    "key": "98078729",
-    "default": "Inflicts Ice-type damage on an enemy."
-  },
-  {
-    "skillId": 109,
-    "parent": "skill",
-    "key": "27346730",
-    "default": "Inflicts Ice-type damage on an enemy."
-  },
-  {
-    "skillId": 111,
-    "parent": "skill",
-    "key": "87940360",
-    "default": "Inflicts Ice-type damage on all enemies."
-  },
-  {
-    "skillId": 112,
-    "parent": "skill",
-    "key": "97818313",
-    "default": "Inflicts Ice-type damage on all enemies."
-  },
-  {
-    "skillId": 113,
-    "parent": "skill",
-    "key": "35769306",
-    "default": "Inflicts Ice-type damage on all enemies."
-  },
-  {
-    "skillId": 115,
-    "parent": "skill",
-    "key": "79244213",
-    "default": "Inflicts Thunder-type damage on an enemy."
-  },
-  {
-    "skillId": 116,
-    "parent": "skill",
-    "key": "99492799",
-    "default": "Inflicts Thunder-type damage on an enemy."
-  },
-  {
-    "skillId": 117,
-    "parent": "skill",
-    "key": "56984520",
-    "default": "Inflicts Thunder-type damage on an enemy."
-  },
-  {
-    "skillId": 119,
-    "parent": "skill",
-    "key": "71939928",
-    "default": "Inflicts Thunder-type damage on all enemies."
-  },
-  {
-    "skillId": 120,
-    "parent": "skill",
-    "key": "76042761",
-    "default": "Inflicts Thunder-type damage on all enemies."
-  },
-  {
-    "skillId": 121,
-    "parent": "skill",
-    "key": "84804898",
-    "default": "Inflicts Thunder-type damage on all enemies."
-  },
-  {
-    "skillId": 123,
-    "parent": "skill",
-    "key": "10734436",
-    "default": "Inflicts Water-type damage on an enemy."
-  },
-  {
-    "skillId": 124,
-    "parent": "skill",
-    "key": "14234584",
-    "default": "Inflicts Water-type damage on an enemy."
-  },
-  {
-    "skillId": 126,
-    "parent": "skill",
-    "key": "30343077",
-    "default": "Inflicts Water-type damage on all enemies."
-  },
-  {
-    "skillId": 127,
-    "parent": "skill",
-    "key": "60976655",
-    "default": "Inflicts Water-type damage on all enemies."
-  },
-  {
-    "skillId": 129,
-    "parent": "skill",
-    "key": "69179551",
-    "default": "Inflicts Earth-type damage on an enemy."
-  },
-  {
-    "skillId": 130,
-    "parent": "skill",
-    "key": "63058221",
-    "default": "Inflicts Earth-type damage on an enemy."
-  },
-  {
-    "skillId": 132,
-    "parent": "skill",
-    "key": "38671531",
-    "default": "Inflicts Earth-type damage on all enemies."
-  },
-  {
-    "skillId": 133,
-    "parent": "skill",
-    "key": "67957122",
-    "default": "Inflicts Earth-type damage on all enemies."
-  },
-  {
-    "skillId": 135,
-    "parent": "skill",
-    "key": "73767429",
-    "default": "Inflicts Wind-type damage on an enemy."
-  },
-  {
-    "skillId": 136,
-    "parent": "skill",
-    "key": "57510350",
-    "default": "Inflicts Wind-type damage on an enemy."
-  },
-  {
-    "skillId": 138,
-    "parent": "skill",
-    "key": "64169471",
-    "default": "Inflicts Wind-type damage on all enemies."
-  },
-  {
-    "skillId": 139,
-    "parent": "skill",
-    "key": "40924982",
-    "default": "Inflicts Wind-type damage on all enemies."
-  },
-  {
-    "skillId": 141,
-    "parent": "skill",
-    "key": "55878062",
-    "default": "Inflicts Light-type damage on an enemy."
-  },
-  {
-    "skillId": 142,
-    "parent": "skill",
-    "key": "67870895",
-    "default": "Inflicts Light-type damage on an enemy."
-  },
-  {
-    "skillId": 144,
-    "parent": "skill",
-    "key": "17778300",
-    "default": "Inflicts Light-type damage on all enemies."
-  },
-  {
-    "skillId": 145,
-    "parent": "skill",
-    "key": "80009694",
-    "default": "Inflicts Light-type damage on all enemies."
-  },
-  {
-    "skillId": 147,
-    "parent": "skill",
-    "key": "40267704",
-    "default": "Inflicts Darkness-type damage on an enemy."
-  },
-  {
-    "skillId": 148,
-    "parent": "skill",
-    "key": "87882973",
-    "default": "Inflicts Darkness-type damage on an enemy."
-  },
-  {
-    "skillId": 150,
-    "parent": "skill",
-    "key": "75559295",
-    "default": "Inflicts Darkness-type damage on all enemies."
-  },
-  {
-    "skillId": 151,
-    "parent": "skill",
-    "key": "58265052",
-    "default": "Inflicts Darkness-type damage on all enemies."
-  },
-  {
-    "skillId": 153,
-    "parent": "skill",
-    "key": "53449600",
-    "default": "Inflicts damage on an enemy regardless of Defense."
-  },
-  {
-    "skillId": 154,
-    "parent": "skill",
-    "key": "90139524",
-    "default": "Inflicts damage on an enemy regardless of Defense."
-  },
-  {
-    "skillId": 156,
-    "parent": "skill",
-    "key": "63366958",
-    "default": "Inflicts damage on all enemies regardless of Defense."
-  },
-  {
-    "skillId": 157,
-    "parent": "skill",
-    "key": "89236494",
-    "default": "Inflicts damage on all enemies regardless of Defense."
-  },
-  {
-    "skillId": 172,
-    "parent": "skill",
-    "key": "16250761",
-    "default": "Performs a powerful attack on an enemy."
-  },
-  {
-    "skillId": 173,
-    "parent": "skill",
-    "key": "57070839",
-    "default": "Attacks all enemies."
-  },
-  {
-    "skillId": 174,
-    "parent": "skill",
-    "key": "35627808",
-    "default": "Performs an attack on an enemy twice."
-  },
-  {
-    "skillId": 175,
-    "parent": "skill",
-    "key": "57905017",
-    "default": "Rouses the user’s fighting spirit and increases\nAttack. Usable up to 2 times in a row."
-  },
-  {
-    "skillId": 176,
-    "parent": "skill",
-    "key": "95627121",
-    "default": "Restores an ally’s HP."
-  },
-  {
-    "skillId": 177,
-    "parent": "skill",
-    "key": "47820606",
-    "default": "Performs a super powerful attack on an enemy."
-  },
-  {
-    "skillId": 178,
-    "parent": "skill",
-    "key": "61246221",
-    "default": "Performs a powerful attack on all enemies."
-  },
-  {
-    "skillId": 186,
-    "parent": "skill",
-    "key": "42484106",
-    "default": "Increases all allies’ Defense and M.Defense.\nUsable up to 2 times in a row."
-  },
-  {
-    "skillId": 187,
-    "parent": "skill",
-    "key": "35498526",
-    "default": "Greatly increases the user’s M.Attack for 5 turns."
-  },
-  {
-    "skillId": 188,
-    "parent": "skill",
-    "key": "21770983",
-    "default": "Rouses all allies’ fighting spirit and increases\nAttack. Usable up to 2 times in a row."
-  },
-  {
-    "skillId": 189,
-    "parent": "skill",
-    "key": "70970803",
-    "default": "Inflicts damage on all enemies regardless of Defense."
-  },
-  {
-    "skillId": 190,
-    "parent": "skill",
-    "key": "85558904",
-    "default": "Bestows Fire-type for 5 turns."
-  },
-  {
-    "skillId": 191,
-    "parent": "skill",
-    "key": "89611864",
-    "default": "Bestows Ice-type for 5 turns."
-  },
-  {
-    "skillId": 192,
-    "parent": "skill",
-    "key": "25183116",
-    "default": "Bestows Thunder-type for 5 turns."
-  },
-  {
-    "skillId": 193,
-    "parent": "skill",
-    "key": "43454670",
-    "default": "Reflects M.Attack aimed at the user for 5 turns."
-  },
-  {
-    "skillId": 196,
-    "parent": "skill",
-    "key": "70189360",
-    "default": "Automatically protects allies with low HP for 1 turn."
-  },
-  {
-    "skillId": 197,
-    "parent": "skill",
-    "key": "67613430",
-    "default": "Performs an attack on an enemy faster than anyone\nelse."
-  },
-  {
-    "skillId": 198,
-    "parent": "skill",
-    "key": "14161361",
-    "default": "Performs an attack on an enemy twice."
-  },
-  {
-    "skillId": 199,
-    "parent": "skill",
-    "key": "55485889",
-    "default": "Inflicts damage on all enemies regardless of Defense."
-  },
-  {
-    "skillId": 200,
-    "parent": "skill",
-    "key": "95039484",
-    "default": "Rouses all allies’ fighting spirit and increases\nAttack. Usable up to 2 times in a row."
-  },
-  {
-    "skillId": 201,
-    "parent": "skill",
-    "key": "77581568",
-    "default": "Attacks all enemies."
-  },
-  {
-    "skillId": 202,
-    "parent": "skill",
-    "key": "55800893",
-    "default": "Slightly increases the user’s TP."
-  },
-  {
-    "skillId": 203,
-    "parent": "skill",
-    "key": "15254321",
-    "default": "Randomly performs 4 attacks on 4 enemies."
-  },
-  {
-    "skillId": 206,
-    "parent": "skill",
-    "key": "12350958",
-    "default": "Blinds an enemy."
-  },
-  {
-    "skillId": 207,
-    "parent": "skill",
-    "key": "14512421",
-    "default": "Increases the user’s Agility."
-  },
-  {
-    "skillId": 208,
-    "parent": "skill",
-    "key": "26413972",
-    "default": "Blinds all enemies."
-  },
-  {
-    "skillId": 209,
-    "parent": "skill",
-    "key": "24455465",
-    "default": "Increases items and money gained from battle for\na while."
-  },
-  {
-    "skillId": 210,
-    "parent": "skill",
-    "key": "77837591",
-    "default": "Inflicts Wind-type damage on all enemies."
-  },
-  {
-    "skillId": 211,
-    "parent": "skill",
-    "key": "39017239",
-    "default": "Makes the user harder to target."
-  },
-  {
-    "skillId": 216,
-    "parent": "skill",
-    "key": "63095256",
-    "default": "Inflicts damage and causes all enemies to lose balance."
-  },
-  {
-    "skillId": 217,
-    "parent": "skill",
-    "key": "44897637",
-    "default": "Cures the user from being weakened."
-  },
-  {
-    "skillId": 218,
-    "parent": "skill",
-    "key": "34654733",
-    "default": "Inflicts huge damage on all enemies."
-  },
-  {
-    "skillId": 219,
-    "parent": "skill",
-    "key": "30381023",
-    "default": "Inflicts damage on an enemy regardless of Defense."
-  },
-  {
-    "skillId": 226,
-    "parent": "skill",
-    "key": "41429796",
-    "default": "Decreases an enemy’s Attack and Defense."
-  },
-  {
-    "skillId": 227,
-    "parent": "skill",
-    "key": "66233292",
-    "default": "Shoots at the footing of all enemies and causes them\nto lose balance."
-  },
-  {
-    "skillId": 228,
-    "parent": "skill",
-    "key": "41911298",
-    "default": "Inflicts damage on an enemy 5 times."
-  },
-  {
-    "skillId": 229,
-    "parent": "skill",
-    "key": "32731415",
-    "default": "Inflicts damage on all enemies 2 times."
+    "key": "86171478",
+    "default": "Wat weet jij al over sociale media? Zijn volgers en vrienden ECHT belangrijk? Wat post ik en wat beter niet?"
   }
 ]

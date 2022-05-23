@@ -1,5 +1,5 @@
 //=============================================================================
-// rmmz_managers.js v1.4.4
+// rmmz_managers.js v1.3.3
 //=============================================================================
 
 //-----------------------------------------------------------------------------
@@ -2067,7 +2067,7 @@ SceneManager.updateInputData = function() {
 };
 
 SceneManager.updateEffekseer = function() {
-    if (Graphics.effekseer && this.isGameActive()) {
+    if (Graphics.effekseer) {
         Graphics.effekseer.update();
     }
 };
@@ -2676,14 +2676,8 @@ BattleManager.endTurn = function() {
     this._phase = "turnEnd";
     this._preemptive = false;
     this._surprise = false;
-};
-
-BattleManager.updateTurnEnd = function() {
-    if (this.isTpb()) {
-        this.startTurn();
-    } else {
+    if (!this.isTpb()) {
         this.endAllBattlersTurn();
-        this._phase = "start";
     }
 };
 
@@ -2700,6 +2694,14 @@ BattleManager.displayBattlerStatus = function(battler, current) {
         this._logWindow.displayCurrentState(battler);
     }
     this._logWindow.displayRegeneration(battler);
+};
+
+BattleManager.updateTurnEnd = function() {
+    if (this.isTpb()) {
+        this.startTurn();
+    } else {
+        this.startInput();
+    }
 };
 
 BattleManager.getNextSubject = function() {
@@ -2840,8 +2842,7 @@ BattleManager.abort = function() {
 
 BattleManager.checkBattleEnd = function() {
     if (this._phase) {
-        if ($gameParty.isEscaped()) {
-            this.processPartyEscape();
+        if (this.checkAbort()) {
             return true;
         } else if ($gameParty.isAllDead()) {
             this.processDefeat();
@@ -2855,9 +2856,8 @@ BattleManager.checkBattleEnd = function() {
 };
 
 BattleManager.checkAbort = function() {
-    if (this.isAborting()) {
+    if ($gameParty.isEmpty() || this.isAborting()) {
         this.processAbort();
-        return true;
     }
     return false;
 };
@@ -2901,11 +2901,6 @@ BattleManager.onEscapeFailure = function() {
     }
 };
 
-BattleManager.processPartyEscape = function() {
-    this._escaped = true;
-    this.processAbort();
-};
-
 BattleManager.processAbort = function() {
     $gameParty.removeBattleStates();
     this._logWindow.clear();
@@ -2936,7 +2931,6 @@ BattleManager.endBattle = function(result) {
     } else if (this._escaped) {
         $gameSystem.onBattleEscape();
     }
-    $gameTemp.clearCommonEventReservation();
 };
 
 BattleManager.updateBattleEnd = function() {

@@ -6,5 +6,11 @@
 		"Font": null,
 		"Help Text": "Select language"
 	},
-	
+	{
+		"Language": "test",
+		"Locale": "TS",
+		"Primary": false,
+		"Font": null,
+		"Help Text": null
+	}
 ]

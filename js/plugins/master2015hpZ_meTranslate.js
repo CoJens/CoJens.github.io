@@ -270,7 +270,7 @@ StorageManager.saveMeTranslate = function() {
 	
 	//include terms into data
 	if (master2015hp.translator.a.translateCommands) {
-		$dataMeLanguages.unshift({'Language': null});
+		$dataMeLanguages.unshift({'Scenarios': null});
 		$dataMeLanguages.unshift($dataSystem.terms.commands);
 	}
 	//write MeLanguages
@@ -744,26 +744,26 @@ Game_Map.prototype.setup = function(mapId) {
 Window_TitleCommand.prototype.makeCommandList = function() {
 	master2015hp.translator.b[5].call(this);
 	//*
-	if ($dataMeLanguages) {console.log('jens is beste');console.log($dataMeLanguages);
-		var langTxt = $dataMeLanguages[1]['Language'] ? $dataMeLanguages[1]['Language'] : 'Language';
+	if ($dataMeLanguages) {
+		var langTxt = $dataMeLanguages[1]['Scenarios'] ? $dataMeLanguages[1]['Scenarios'] : 'Scenarios';
 		if (master2015hp.translator.autoTranslate) langTxt = Object.keys($dataMeLanguages[1])[0];
 	}
-	this.addCommand(langTxt, 'language');
+	this.addCommand(langTxt, 'Scenarios');
 };
 
 Scene_Title.prototype.createCommandWindow = function() {
 	master2015hp.translator.b[6].call(this);
-    this._commandWindow.setHandler('language',  this.commandLanguage.bind(this));
+    this._commandWindow.setHandler('Scenarios',  this.commandLanguage.bind(this));
 };
 
 Scene_Title.prototype.update = function() {
     master2015hp.translator.b[8].call(this);
 	if (this._refreshed) return;
 	if (this._commandWindow && $dataMeLanguages) {
-		var langTxt = $dataMeLanguages[1]['Language'] ? $dataMeLanguages[1]['Language'] : null;
+		var langTxt = $dataMeLanguages[1]['Scenarios'] ? $dataMeLanguages[1]['Scenarios'] : null;
 		if (master2015hp.translator.autoTranslate) langTxt = Object.keys($dataMeLanguages[1])[0];
 		var res = this._commandWindow._list.some(function(a) {
-			if (a && a.symbol == 'language') {
+			if (a && a.symbol == 'Scenarios') {
 				if (a.name != langTxt) a.name = langTxt;
 				return true;
 			}
