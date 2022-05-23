@@ -3,6 +3,6 @@
 var $plugins =
 [
 {"name":"YEP_RegionRestrictions","status":true,"description":"v1.04 Use regions to block out Events and/or the player from\nbeing able to venture into those spots.","parameters":{"Player Restrict":"8","Event Restrict":"9","All Restrict":"10","Player Allow":"11","Event Allow":"12","All Allow":"13"}},
-{"name":"master2015hpZ_myCore","status":true,"description":"install me above all of other master2015hp plugins","parameters":{}},
-{"name":"master2015hpZ_meTranslate","status":true,"description":"easiest & cleanest way to localize your game","parameters":{"file name":"MeTranslate","file name 2":"MeLanguages","wait for loading data":"3","language window height offset":"500","import data":"true","export data":"false","translate commands":"true","translate skill desc":"true","special encode list":"[]","autotranslating format":"false","language options":"[\"{\\\"name\\\":\\\"standaard\\\",\\\"sysImg\\\":\\\"S\\\"}\",\"{\\\"name\\\":\\\"Mediacoach\\\",\\\"sysImg\\\":\\\"Actor2_4\\\"}\"]"}}
+{"name":"master2015hpZ_myCore","status":false,"description":"install me above all of other master2015hp plugins","parameters":{}},
+{"name":"master2015hpZ_meTranslate","status":false,"description":"easiest & cleanest way to localize your game","parameters":{"file name":"MeTranslate","file name 2":"MeLanguages","wait for loading data":"3","language window height offset":"500","import data":"true","export data":"false","translate commands":"true","translate skill desc":"true","special encode list":"[]","autotranslating format":"false","language options":"[\"{\\\"name\\\":\\\"standaard\\\",\\\"sysImg\\\":\\\"S\\\"}\",\"{\\\"name\\\":\\\"Mediacoach\\\",\\\"sysImg\\\":\\\"Actor2_4\\\"}\"]"}}
 ];
